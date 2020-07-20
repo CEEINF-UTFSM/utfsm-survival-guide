@@ -1,0 +1,98 @@
+repository: redhelper/utfsm-survival-guide
+
+# this property is useful for conditional filtering of content that is separate from the PDF.
+output: web
+
+# this appears on the top navigation bar next to the home button
+topnav_title: UTFSM Survival
+
+# this appears in the html browser tab for the site title (seen mostly by search engines, not users)
+site_title: UTFSM students survival guide
+
+# this appears in the footer
+company_name: Ceeinf UTFSM + redhelper
+
+# if you have google-analytics ID, put it in. if not, edit this value to blank.
+google_analytics: 
+
+# the preview server used. Leave as is.
+host: 127.0.0.1
+
+# the port where the preview is rendered. You can leave this as is unless you have other Jekyll builds using this same port that might cause conflicts. in that case, use another port such as 4006.
+port: 4000
+
+# these are the files and directories that jekyll will exclude from the build
+exclude:
+  - .idea/
+  - .gitignore
+  - vendor
+
+feedback_disable: true
+# if you uncomment the previous line, the Feedback link gets removed
+# feedback_subject_line: UTFSM Manual
+# feedback_email: rcalvo044@gmail.com
+
+# feedback_link: "http://helpy.io/"
+# if you uncomment the previous line, it changes where the feedback link points to
+
+# library used for syntax highlighting
+highlighter: rouge
+
+# filter used to process markdown. note that kramdown differs from github-flavored markdown in some subtle ways
+markdown: kramdown
+kramdown:
+ input: GFM
+ auto_ids: true
+ hard_wrap: false
+ syntax_highlighter: rouge
+
+# collections are declared here. this renders the content in _tooltips and processes it, but doesn't output it as actual files in the output unless you change output to true
+collections:
+  tooltips:
+    output: false
+
+# these are defaults used for the frontmatter for these file types:
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+      comments: false # this uses a Commento.io account. Don't use it.
+      search: true
+      sidebar: home_sidebar
+      topnav: topnav
+  -
+    scope:
+      path: ""
+      type: "tooltips"
+    values:
+      layout: "page"
+      search: true
+      tooltip: true
+
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      comments: false # this uses a Commento.io account. Don't use it.
+      search: true
+      sidebar: home_sidebar
+      topnav: topnav
+
+
+sidebars:
+- home_sidebar
+- main_sidebar
+
+# the description is used in the feed.xml file
+# description: ""
+
+# needed for sitemap.xml file only
+# url: http://idratherbewriting.com
+# baseurl: /documentation-theme-jekyll
+
+github: [metadata]
