@@ -41,24 +41,20 @@ entries:
         output: web
         subfolderitems:
 
-        - title: Mate 201
-          url: /tag_formatting.html
+        - title: Mate 021
+          url: /semestre1_MAT021.html
           output: web
 
         - title: Progra
-          url: /tag_navigation.html
+          url: /semestre1_IWI131.html
           output: web
 
         - title: Ed. Fisica
-          url: /semestre1_MAT021.html
+          url: /tag_publishing.html
           output: web
 
         - title: Fisica 100
           url: /tag_publishing.html
-          output: web
-
-        - title: Química
-          url: /tag_special_layouts.html
           output: web
       
       - title: Semestre 2
