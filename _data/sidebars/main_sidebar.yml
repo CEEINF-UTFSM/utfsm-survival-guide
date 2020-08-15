@@ -1,74 +1,91 @@
 # This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
 
 entries:
-- title: sidebar
-  product: Manual Versión
-  version: 0.1
-  folders:
+  - title: sidebar
+    product: Manual Versión
+    version: 0.1
+    folders:
+      - title: Sección Principal
+        output: web, pdf
+        folderitems:
+          - title: Introduction
+            url: /index.html
+            output: web, pdf
+            type: homepage
 
-  - title: Sección Principal
-    output: web, pdf
-    folderitems:
+          - title: Plataformas de Informática
+            url: /mydoc_supported_features.html
+            output: web, pdf
 
-    - title: Introduction
-      url: /index.html
-      output: web, pdf
-      type: homepage
+          - title: Profesores
+            url: /mydoc_about.html
+            output: web, pdf
 
-    - title: Plataformas de Informática
-      url: /mydoc_supported_features.html
-      output: web, pdf
+          - title: Cómo Aportar Al Sitio
+            url: /mydoc_about.html
+            output: web, pdf
 
-    - title: Profesores
-      url: /mydoc_about.html
-      output: web, pdf
-
-    - title: Cómo Aportar Al Sitio
-      url: /mydoc_about.html
-      output: web, pdf
-
-# Para agregar asignaturas, solo debes agregar el título y el nombre del archivo aquí. En caso de estar en una carpeta (como semestre-1) esto va indicado dentro del archivo.md, no aquí
-  - title: Asignaturas
-    output: web
-    folderitems:
-
-    - title: Indice General
-      url: /semestres.html
-      output: web
-
-      subfolders:
-      - title: Semestre 1
+      # Para agregar asignaturas, solo debes agregar el título y el nombre del archivo aquí. En caso de estar en una carpeta (como semestre-1) esto va indicado dentro del archivo.md, no aquí
+      - title: Asignaturas
         output: web
-        subfolderitems:
+        folderitems:
+          - title: Indice General
+            url: /semestres.html
+            output: web
 
-        - title: Mate 201
-          url: /tag_formatting.html
-          output: web
+            subfolders:
+              - title: Semestre 1
+                output: web
+                subfolderitems:
+                  - title: Mate 201
+                    url: /tag_formatting.html
+                    output: web
 
-        - title: Progra
-          url: /tag_navigation.html
-          output: web
+                  - title: Progra
+                    url: /tag_navigation.html
+                    output: web
 
-        - title: Ed. Fisica
-          url: /semestre1_MAT021.html
-          output: web
+                  - title: Ed. Fisica
+                    url: /semestre1_MAT021.html
+                    output: web
 
-        - title: Fisica 100
-          url: /tag_publishing.html
-          output: web
+                  - title: Fisica 100
+                    url: /tag_publishing.html
+                    output: web
 
-        - title: Química
-          url: /tag_special_layouts.html
-          output: web
-      
-      - title: Semestre 2
-        output: web
-        subfolderitems:
+                  - title: Química
+                    url: /tag_special_layouts.html
+                    output: web
 
-        - title: Collaboration pages
-          url: /tag_collaboration.html
-          output: web
+              - title: Semestre 2
+                output: web
+                subfolderitems:
+                  - title: Collaboration pages
+                    url: /tag_collaboration.html
+                    output: web
 
-        - title: Troubleshooting pages
-          url: /tag_troubleshooting.html
-          output: web
+                  - title: Troubleshooting pages
+                    url: /tag_troubleshooting.html
+                    output: web
+              - title: Semestre 6
+                output: web
+                subfolderitems:
+                  - title: Analisis y Diseño de Software
+                    url: /INF-236.html
+                    output: web
+
+                  - title: Algoritmos‌ ‌y‌ ‌Complejidad‌
+                    url: /s6-inf-221.html
+                    output: web
+
+                  - title: Ingeniería,‌ ‌Informática‌ ‌y‌ ‌Sociedad
+                    url: /INF-276.html
+                    output: web
+
+                  - title: Optimización
+                    url: /INF-292.html
+                    output: web
+
+                  - title: Sistemas‌ ‌Operativos‌
+                    url: /INF-246.html
+                    output: web
