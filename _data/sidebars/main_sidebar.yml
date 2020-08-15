@@ -41,30 +41,43 @@ entries:
         output: web
         subfolderitems:
 
-        - title: Mate 021
+        - title: Matemática I
           url: /semestre1_MAT021.html
           output: web
 
-        - title: Progra
+        - title: Programación
           url: /semestre1_IWI131.html
           output: web
 
-        - title: Ed. Fisica
-          url: /tag_publishing.html
+        - title: Ed. Física I
+          url: /semestre1_EFI100.html
           output: web
 
-        - title: Fisica 100
-          url: /tag_publishing.html
+        - title: Física 100
+          url: /semestre1_FIS100.html
           output: web
-      
-      - title: Semestre 2
+
+
+      - title: Semestre 4
         output: web
         subfolderitems:
 
-        - title: Collaboration pages
-          url: /tag_collaboration.html
+        - title: Matemática IV
+          url: /semestre4_MAT024.html
           output: web
 
-        - title: Troubleshooting pages
-          url: /tag_troubleshooting.html
+        - title: Informática Teórica
+          url: /semestre4_INF155.html
+          output: web
+
+        - title: Lenguajes de Programación
+          url: /semestre4_INF253.html
+          output: web
+
+        - title: ECONOMIA I-A
+          url: /semestre4_IWN170.html
+          output: web
+
+        - title: Física 120
+          url: /semestre4_FIS120.html
           output: web
