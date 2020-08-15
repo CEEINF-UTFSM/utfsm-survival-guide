@@ -1,0 +1,44 @@
+---
+title: Estructuras de Datos [EDD]
+keywords: edd, EDD
+last_updated: August 15, 2020
+tags: [getting_started]
+summary: "Esta asignatura forma parte del plan de estudios de la carrera Ingeniería Civil Informática en la
+Línea de Programación Avanzada, conducente a la Licenciatura en Ciencias de la Ingeniería
+Informática. El propósito de ésta asignatura es, que el estudiante conozca y aplique las
+estructuras de datos básicas y reconozca cuándo usarlas en diferentes escenarios de su
+quehacer. Esto incluye el diseño, análisis, evaluación y programación de estructuras de datos
+usando la metodología de tipos de datos abstractos."
+sidebar: main_sidebar
+permalink: semestre3_EDD.html
+folder: semestre-3
+---
+
+ **Información general:**
+
+- Sigla: INF-134
+- Nivel de dificultad: 5/10
+- Créditos USM: 3
+- Créditos SCT: 5
+- Prerrequisitos: IWI-131
+
+---
+
+**Contenidos:**
+
+- Conceptos de programación: punteros y recursividad.
+- Concepto de tipo de datos abstracto. 
+- Análisis de la complejidad de algoritmos.
+- Estructuras de datos: lista, pila y cola. 
+- Árboles.
+- Técnicas de hashing.
+- Grafos.
+- Algoritmos de ordenamiento.
+
+---
+
+**Comentarios de los alumnos:**
+
+
+
+{% include links.html %}

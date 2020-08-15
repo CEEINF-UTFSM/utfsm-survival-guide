@@ -72,3 +72,27 @@ entries:
         - title: Troubleshooting pages
           url: /tag_troubleshooting.html
           output: web
+
+      - title: Semestre 3
+        output: web
+        subfolderitems:
+
+        - title: Estructuras de datos
+          url: /semestre3_EDD.html
+          output: web
+
+        - title: Estructuras Discretas
+          url: /semestre3_EDIS.html
+          output: web
+
+        - title: Matemática III
+          url: /semestre3_MAT023.html
+          output: web
+
+        - title: Teoría de Sistemas
+          url: /semestre3_TEOSIS.html
+          output: web
+
+        - title: Física General III
+          url: /semestre3_FIS130.html
+          output: web
