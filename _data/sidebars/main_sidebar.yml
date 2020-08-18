@@ -81,3 +81,29 @@ entries:
         - title: Física 120
           url: /semestre4_FIS120.html
           output: web
+
+          
+      - title: Semestre 7
+        output: web
+        subfolderitems:
+
+        - title: Ingeniería de Software
+          url: /semestre7_INF225.html
+          output: web
+
+        - title: Redes de computadores
+          url: /semestre7_INF256.html
+          output: web
+
+        - title: Información y Matemáticas Financieras
+          url: /semestre7_ICN270.html
+          output: web
+
+        - title: Computación Científica
+          url: /semestre7_INF285.html
+          output: web
+
+        - title: Investigación de Operaciones
+          url: /semestre7_INF293.html
+          output: web
+
