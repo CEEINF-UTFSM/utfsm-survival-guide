@@ -14,7 +14,7 @@ permalink: semestre3_EDD.html
 folder: semestre-3
 ---
 
- ## Información general:
+## Información general:
 
 - Sigla: INF-134.
 - Nivel de dificultad: 5/10.
