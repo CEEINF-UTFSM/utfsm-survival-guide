@@ -1,7 +1,7 @@
 ---
 title: ECONOMIA I-A [ECONO]
 keywords: econo, industrias
-last_updated: August 15, 2020
+last_updated: August 18, 2020
 summary: "El alumno será capaz de comprender el funcionamiento del mercado en equilibrio parcial, con énfasis en las condiciones de competencia perfecta y en menor medida bajo condiciones de competencia imperfecta y comprender   y   analizar   el   funcionamiento   de   la   economía   a   nivel   agregado,   a   través   del comportamiento de sus principales variables: producto, nivel de precios, empleo, cuentas externas, tasas de interés y tipo de cambio."
 sidebar: main_sidebar
 permalink: semestre4_IWN170.html
