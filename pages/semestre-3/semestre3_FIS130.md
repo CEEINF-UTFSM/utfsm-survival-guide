@@ -13,11 +13,13 @@ folder: semestre-3
 
 **Información general:**
 
-- Sigla: FIS-130
-- Nivel de dificultad: 8/10
-- Créditos USM: 4
-- Créditos SCT: 8
-- Prerrequisitos: FIS-110 y MAT-022
+- Sigla: FIS-130.
+- Nivel de dificultad: 8/10.
+- Créditos USM: 4.
+- Créditos SCT: 8.
+- Eje formativo: Ciencias Básicas de Ingeniería.
+- Semestre en que se dicta: Ambos (Par/Impar).
+- Prerrequisitos: FIS-110 y MAT-022.
 
 ---
 
@@ -34,6 +36,11 @@ folder: semestre-3
 
 **Comentarios de los alumnos:**
 
-
+- Patear >>>>>>> ALL.
+- Si no lo pateaste, tómalo con Duarte <3.
+- En Vitacura es más fácil, si puedes toma el ramo allá.
+- EDOs strikes back!
+- Ex-Ciento Trámite, hasta que el profe escuchó en San Joaquín que le decían así al ramo. RIP generaciones futuras.
+- "Documento de onda" y "Documento de calor" SON LA LUZ CTM.
 
 {% include links.html %}

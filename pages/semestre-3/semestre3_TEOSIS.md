@@ -12,15 +12,17 @@ permalink: semestre3_TEOSIS.html
 folder: semestre-3
 ---
 
-Humanista encubierto
+Humanista encubierto.
 
 **Información general:**
 
-- Sigla: []
-- Nivel de dificultad: 1/10
-- Créditos USM: 3
-- Créditos SCT: 5
-- Prerrequisitos: IWG-101
+- Sigla: [NULL].
+- Nivel de dificultad: 1/10.
+- Créditos USM: 3.
+- Créditos SCT: 5.
+- Eje formativo:  Ciencias de la Ingeniería - Sistemas y Gestión.
+- Semestre en que se dicta: Impar.
+- Prerrequisitos: IWG-101.
 
 ---
 
@@ -39,5 +41,7 @@ Humanista encubierto
 ---
 
 **Comentarios de los alumnos:**
+
+- 
 
 {% include links.html %}

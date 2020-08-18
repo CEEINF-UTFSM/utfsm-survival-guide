@@ -14,17 +14,19 @@ permalink: semestre3_EDD.html
 folder: semestre-3
 ---
 
- **Información general:**
+ ## Información general:
 
-- Sigla: INF-134
-- Nivel de dificultad: 5/10
-- Créditos USM: 3
-- Créditos SCT: 5
-- Prerrequisitos: IWI-131
+- Sigla: INF-134.
+- Nivel de dificultad: 5/10.
+- Créditos USM: 3.
+- Créditos SCT: 5.
+- Eje formativo: Ciencias de la Ingeniería y Programación Avanzada.
+- Semestre en que se dicta: Impar.
+- Prerrequisitos: IWI-131.
 
 ---
 
-**Contenidos:**
+## Contenidos:
 
 - Conceptos de programación: punteros y recursividad.
 - Concepto de tipo de datos abstracto. 
@@ -39,6 +41,10 @@ folder: semestre-3
 
 **Comentarios de los alumnos:**
 
-
+- "Mi libro ,*Tutorial de C*, ya está disponible en campus San Joaquín, Vitacura, Valparaíso y Guayaquil... **C** ...que te va a encantar..."
+- **C**... eficiente.
+- **C**... responsable.
+- **C**... ordenado.
+- Si te cuesta entenderle a Arroyuelo, mejor retírate de la U, es el profe que mejor explica y para adelante no hay salavtoria (Aunque Martí se la pelea) :c.
 
 {% include links.html %}

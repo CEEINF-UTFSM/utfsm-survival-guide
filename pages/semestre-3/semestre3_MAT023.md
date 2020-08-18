@@ -15,11 +15,13 @@ La tercera es la vencida xdxddd
 
 **Información general:**
 
-- Sigla: MAT-023
-- Nivel de dificultad: 7/10
-- Créditos USM: 4
-- Créditos SCT: 7
-- Prerrequisitos: MAT-022
+- Sigla: MAT-023.
+- Nivel de dificultad: 7/10.
+- Créditos USM: 4.
+- Créditos SCT: 7.
+- Eje formativo: Ciencias Básicas de la Ingeniería.
+- Semestre en que se dicta: Ambos (Par/Impar).
+- Prerrequisitos: MAT-022.
 
 ---
 
@@ -30,12 +32,17 @@ La tercera es la vencida xdxddd
 - Ecuaciones diferenciales de primer orden.
 - Ecuaciones diferenciales de orden superior.
 - Transformada de Laplace.
-- Series e integral de Furier.
+- Series e integral de Fourier.
 
 ---
 
 **Comentarios de los alumnos:**
 
-
+- Como mate 1 pero agrégale d/d a todo: dx/dy, d²z/d²f, d²t/d²x, etc...
+- 3rd time's the charm...
+- Regla de la cadena  Regla de la cadena Regla de la cadena Regla de la cadena Regla de la cadena Regla de la cadena Regla de la cadena Regla de la cadena Regla de la cadena Regla de la cadena Regla de la cadena Regla de la cadena.
+- Teorema de Rolle GG.
+- Cifu = GOD.
+  - Muñoz = MVP.
 
 {% include links.html %}
