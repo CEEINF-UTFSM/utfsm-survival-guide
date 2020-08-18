@@ -13,7 +13,7 @@ folder: semestre-3
 
 La tercera es la vencida xdxddd
 
-**Información general:**
+## Información general:
 
 - Sigla: MAT-023.
 - Nivel de dificultad: 7/10.
@@ -25,7 +25,7 @@ La tercera es la vencida xdxddd
 
 ---
 
-**Contenidos:**
+## Contenidos:
 
 - Transformaciones lineales.
 - Funciones de varias variables.
@@ -36,7 +36,7 @@ La tercera es la vencida xdxddd
 
 ---
 
-**Comentarios de los alumnos:**
+## Comentarios de los alumnos:
 
 - Como mate 1 pero agrégale d/d a todo: dx/dy, d²z/d²f, d²t/d²x, etc...
 - 3rd time's the charm...

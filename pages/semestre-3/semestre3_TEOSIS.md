@@ -14,9 +14,9 @@ folder: semestre-3
 
 Humanista encubierto.
 
-**Información general:**
+## Información general:
 
-- Sigla: [NULL].
+- Sigla: INF-260.
 - Nivel de dificultad: 1/10.
 - Créditos USM: 3.
 - Créditos SCT: 5.
@@ -26,7 +26,7 @@ Humanista encubierto.
 
 ---
 
-**Contenidos:**
+## Contenidos:
 
 - Epistemología de sistemas. Del cartesianismo al pensamiento de sistemas.
 - La teoría de sistemas y la teoría de sistemas generales.
@@ -40,7 +40,7 @@ Humanista encubierto.
 
 ---
 
-**Comentarios de los alumnos:**
+## Comentarios de los alumnos:
 
 - 
 

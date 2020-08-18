@@ -39,7 +39,7 @@ folder: semestre-3
 
 ---
 
-**Comentarios de los alumnos:**
+## Comentarios de los alumnos:
 
 - "Mi libro ,*Tutorial de C*, ya está disponible en campus San Joaquín, Vitacura, Valparaíso y Guayaquil... **C** ...que te va a encantar..."
 - **C**... eficiente.

@@ -11,7 +11,7 @@ permalink: semestre3_FIS130.html
 folder: semestre-3
 ---
 
-**Información general:**
+## Información general:
 
 - Sigla: FIS-130.
 - Nivel de dificultad: 8/10.
@@ -23,7 +23,7 @@ folder: semestre-3
 
 ---
 
-**Contenidos:**
+## Contenidos:
 
 - Temperatura y calor.
 - Teoría cinético-molecular.
@@ -34,7 +34,7 @@ folder: semestre-3
 
 ---
 
-**Comentarios de los alumnos:**
+## Comentarios de los alumnos:
 
 - Patear >>>>>>> ALL.
 - Si no lo pateaste, tómalo con Duarte <3.
