@@ -1,7 +1,7 @@
 ---
 title: Física General 3 [FIS-130]
 keywords: fis130, fisica3, fis3
-last_updated: August 15, 2020
+last_updated: August 18, 2020
 tags: [getting_started]
 summary: "En esta asignatura se estudian los principios de la física de los medios continuos a nivel básico.
 El estudiante profundiza las habilidades para aplicar leyes físicas, resolver problemas y realizar

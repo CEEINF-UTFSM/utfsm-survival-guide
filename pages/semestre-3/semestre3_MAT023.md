@@ -1,7 +1,7 @@
 ---
 title: Matemática III [MAT-023]
 keywords: mate3, mate023, mat023
-last_updated: August 15, 2020
+last_updated: August 18, 2020
 tags: [getting_started]
 summary: "Asignatura teórica práctica de carácter intermedio que a partir de una introducción a las transformaciones
 lineales, entrega los conceptos fundamentales del cálculo diferencial en varias variables, ecuaciones

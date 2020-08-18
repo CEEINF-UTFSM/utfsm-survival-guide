@@ -1,7 +1,7 @@
 ---
 title: Teoría de Sistemas
 keywords: comunismo
-last_updated: August 15, 2020
+last_updated: August 18, 2020
 tags: [getting_started]
 summary: "Esta asignatura forma parte del plan de estudios de Ingeniería Civil Informática conducente a la
 Licenciatura en Ciencias de la Ingeniería. El propósito de ésta es que los estudiantes aprendan

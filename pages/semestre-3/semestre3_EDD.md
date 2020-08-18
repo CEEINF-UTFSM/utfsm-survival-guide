@@ -1,7 +1,7 @@
 ---
 title: Estructuras de Datos [EDD]
 keywords: edd, EDD
-last_updated: August 15, 2020
+last_updated: August 18, 2020
 tags: [getting_started]
 summary: "Esta asignatura forma parte del plan de estudios de la carrera Ingeniería Civil Informática en la
 Línea de Programación Avanzada, conducente a la Licenciatura en Ciencias de la Ingeniería
