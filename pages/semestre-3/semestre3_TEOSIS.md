@@ -1,7 +1,7 @@
 ---
 title: Teoría de Sistemas
-keywords: comunismo
-last_updated: August 18, 2020
+keywords: comunismo, teosis
+last_updated: August 19, 2020
 tags: [getting_started]
 summary: "Esta asignatura forma parte del plan de estudios de Ingeniería Civil Informática conducente a la
 Licenciatura en Ciencias de la Ingeniería. El propósito de ésta es que los estudiantes aprendan
@@ -12,7 +12,7 @@ permalink: semestre3_TEOSIS.html
 folder: semestre-3
 ---
 
-Humanista encubierto.
+Humanista disfrazado de ramo informático.
 
 ## Información general:
 
@@ -24,7 +24,6 @@ Humanista encubierto.
 - Semestre en que se dicta: Impar.
 - Prerrequisitos: IWG-101.
 
----
 
 ## Contenidos:
 
@@ -38,10 +37,15 @@ Humanista encubierto.
 - Los sistemas de información y los sistemas de gestión en los sistemas viables.
 - El modelado de sistemas viables.
 
----
 
 ## Comentarios de los alumnos:
 
-- 
+- # Gloria a Camila Vallejos -ric 2013.
+- Facho pobre xd.
+- Buena idea tomarlo en la mañana, te asegura una profundas 3 horas de sueño.
+- Totalidad por los bordes.
+- Cuando se creó el universo estaban Maradona, Dios y el profe dictándoles el ramo (la divina trinidad, pregunta de certamen 2).
+- El profe una vez durmió con un vagabundo.
+- Un vagabundo una vez durmió con el profe.
 
 {% include links.html %}
