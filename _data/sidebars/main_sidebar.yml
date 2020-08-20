@@ -60,7 +60,7 @@ entries:
         - title: Química
           url: /tag_special_layouts.html
           output: web
-      
+
       - title: Semestre 2
         output: web
         subfolderitems:
@@ -84,5 +84,27 @@ entries:
         - title: Química Y Sociedad
           url: /semestre2_QUI010.html
           output: web
+      
+      - title: Libres
+        output: web
+        subfolderitems:
 
-          
+        - title: Crecimiento y Desarrollo Personal
+          url: /Libres_HRW104.html
+          output: web
+
+        - title: Ética
+          url: /Libres_HRW130.html
+          output: web
+
+        - title: Expresión oral y escrita
+          url: /Libres_HFW144.html
+          output: web
+
+        - title: Formación y liderazgo empresarial
+          url: /Libres_HRW131.html
+          output: web
+
+        - title: Historia Chilena Contemporánea
+          url: /Libres_HFW131.html
+          output: web
