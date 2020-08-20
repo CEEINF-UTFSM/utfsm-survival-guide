@@ -61,14 +61,26 @@ entries:
           url: /tag_special_layouts.html
           output: web
       
-      - title: Semestre 2
+      - title: Libres
         output: web
         subfolderitems:
 
-        - title: Collaboration pages
-          url: /tag_collaboration.html
+        - title: Crecimiento y Desarrollo Personal
+          url: /Libres_HRW104.html
           output: web
 
-        - title: Troubleshooting pages
-          url: /tag_troubleshooting.html
+        - title: Ética
+          url: /Libres_HRW130.html
+          output: web
+
+        - title: Expresión oral y escrita
+          url: /Libres_HFW144.html
+          output: web
+
+        - title: Formación y liderazgo empresarial
+          url: /Libres_HRW131.html
+          output: web
+
+        - title: Historia Chilena Contemporánea
+          url: /Libres_HFW131.html
           output: web
