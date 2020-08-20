@@ -96,3 +96,11 @@ entries:
         - title: Física General III
           url: /semestre3_FIS130.html
           output: web
+
+      - title: Semestre 9
+        output: web
+        subfolderitems:
+
+        - title: Gestion de Proyectos de Informatica
+          url: /semestre9_GESTIP.html
+          output: web
