@@ -71,21 +71,21 @@ entries:
                 output: web
                 subfolderitems:
                   - title: Analisis y Diseño de Software
-                    url: /INF-236.html
+                    url: /S6-INF-236.html
                     output: web
 
                   - title: Algoritmos‌ ‌y‌ ‌Complejidad‌
-                    url: /s6-inf-221.html
+                    url: /S6-INF-221.html
                     output: web
 
                   - title: Ingeniería,‌ ‌Informática‌ ‌y‌ ‌Sociedad
-                    url: /INF-276.html
+                    url: /S6-INF-276.html
                     output: web
 
                   - title: Optimización
-                    url: /INF-292.html
+                    url: /S6-INF-292.html
                     output: web
 
                   - title: Sistemas‌ ‌Operativos‌
-                    url: /INF-246.html
+                    url: /S6-INF-246.html
                     output: web
