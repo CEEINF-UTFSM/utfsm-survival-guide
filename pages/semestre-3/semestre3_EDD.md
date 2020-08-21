@@ -16,7 +16,7 @@ folder: semestre-3
 
 ## Información general:
 
-<img align= "right" width= "400" height= "400" src= images/semestre-3/edd-meme1.jpg>
+<img align= "right" width= "400" height= "400" src= "images/semestre-3/edd-meme1.jpg">
 
 - Sigla: INF-134.
 - Nivel de dificultad: 5/10.

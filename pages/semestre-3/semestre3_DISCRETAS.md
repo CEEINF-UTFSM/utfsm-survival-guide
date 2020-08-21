@@ -14,7 +14,7 @@ folder: semestre-3
 
 ## Información general:
 
-<img align= "right" width= "400" height= "400" src= images/semestre-3/discretas-meme1.jpg>
+<img align= "right" width= "400" height= "400" src= "images/semestre-3/discretas-meme1.jpg">
 
 - Sigla: INF-152.
 - Nivel de dificultad: antes 6/10 ... 4/10 posible - 7/10 a futuro - 8/10 actualmente.

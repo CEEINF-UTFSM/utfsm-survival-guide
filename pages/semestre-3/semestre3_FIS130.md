@@ -13,7 +13,7 @@ folder: semestre-3
 
 ## Información general:
 
-<img align= "right" width= "400" height= "400" src= images/semestre-3/fis130-meme1.jpg>
+<img align= "right" width= "400" height= "400" src= "images/semestre-3/fis130-meme1.jpg">
 
 - Sigla: FIS-130.
 - Nivel de dificultad: 8/10.

@@ -25,7 +25,7 @@ La tercera es la vencida xdxddd
 
 ## Contenidos:
 
-<img align= "right" width= "400" height= "400" src= images/semestre-3/mate3-meme1.jpg>
+<img align= "right" width= "400" height= "400" src= "images/semestre-3/mate3-meme1.jpg">
 
 - Transformaciones lineales.
 - Funciones de varias variables.
