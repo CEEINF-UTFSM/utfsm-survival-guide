@@ -1,7 +1,7 @@
 ---
 title: Estructuras de Datos [EDD]
 keywords: edd, EDD
-last_updated: August 18, 2020
+last_updated: August 19, 2020
 tags: [getting_started]
 summary: "Esta asignatura forma parte del plan de estudios de la carrera Ingeniería Civil Informática en la
 Línea de Programación Avanzada, conducente a la Licenciatura en Ciencias de la Ingeniería
@@ -14,7 +14,7 @@ permalink: semestre3_EDD.html
 folder: semestre-3
 ---
 
- ## Información general:
+## Información general:
 
 - Sigla: INF-134.
 - Nivel de dificultad: 5/10.
@@ -24,7 +24,6 @@ folder: semestre-3
 - Semestre en que se dicta: Impar.
 - Prerrequisitos: IWI-131.
 
----
 
 ## Contenidos:
 
@@ -37,7 +36,6 @@ folder: semestre-3
 - Grafos.
 - Algoritmos de ordenamiento.
 
----
 
 ## Comentarios de los alumnos:
 
@@ -45,6 +43,9 @@ folder: semestre-3
 - **C**... eficiente.
 - **C**... responsable.
 - **C**... ordenado.
-- Si te cuesta entenderle a Arroyuelo, mejor retírate de la U, es el profe que mejor explica y para adelante no hay salavtoria (Aunque Martí se la pelea) :c.
+- Si te cuesta entenderle a Arroyuelo, mejor retírate de la U, es el profe que mejor explica y para adelante no hay salvatoria (Aunque Martí se la pelea) :c.
+- O(n!) = matar gente por diversión.
+- **Por lo que más quieran NO hagan las tareas en Windows**.
+- Si preguntas algo en clases: "si si, si, si si, sisi, ya, sisi, bueno {*explicacion*}. 
 
 {% include links.html %}
