@@ -72,3 +72,27 @@ entries:
         - title: Troubleshooting pages
           url: /tag_troubleshooting.html
           output: web
+
+      - title: Semestre 5
+        output: web
+        subfolderitems:
+
+        - title: Bases de Datos
+          url: /semestre5_INF239.html
+          output: web
+
+        - title: Arquitectura y Organizacion de Computadores
+          url: /semestre5_INF245.html
+          output: web
+
+        - title: Fisica 140
+          url: /semestre5_FIS140.html
+          output: web
+
+        - title: Estadistica Computacional
+          url: /semestre5_INF280.html
+          output: web
+        
+        - title: Organizaciones y Sistemas de Informacion
+          url: /semestre5_INF270.html
+          output: web
