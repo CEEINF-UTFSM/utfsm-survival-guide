@@ -13,6 +13,8 @@ folder: semestre-3
 
 ## Información general:
 
+<img align= "right" width= "400" height= "400" src= images/semestre-3/fis130-meme1.jpg>
+
 - Sigla: FIS-130.
 - Nivel de dificultad: 8/10.
 - Créditos USM: 4.
@@ -20,8 +22,6 @@ folder: semestre-3
 - Eje formativo: Ciencias Básicas de Ingeniería.
 - Semestre en que se dicta: Ambos (Par/Impar).
 - Prerrequisitos: FIS-110 y MAT-022.
-
----
 
 ## Contenidos:
 
@@ -31,8 +31,6 @@ folder: semestre-3
 - Esfuerzo y deformación de sólidos.
 - Estática y dinámica de fluidos.
 - Ondas en medios mecánicos y sonido.
-
----
 
 ## Comentarios de los alumnos:
 

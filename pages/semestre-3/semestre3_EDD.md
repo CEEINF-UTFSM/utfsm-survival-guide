@@ -16,6 +16,8 @@ folder: semestre-3
 
 ## Información general:
 
+<img align= "right" width= "400" height= "400" src= images/semestre-3/edd-meme1.jpg>
+
 - Sigla: INF-134.
 - Nivel de dificultad: 5/10.
 - Créditos USM: 3.
@@ -46,6 +48,16 @@ folder: semestre-3
 - Si te cuesta entenderle a Arroyuelo, mejor retírate de la U, es el profe que mejor explica y para adelante no hay salvatoria (Aunque Martí se la pelea) :c.
 - O(n!) = matar gente por diversión.
 - **Por lo que más quieran NO hagan las tareas en Windows**.
-- Si preguntas algo en clases: "si si, si, si si, sisi, ya, sisi, bueno {*explicacion*}. 
+- Si preguntas algo en clases: "si si, si, si si, sisi, ya, sisi, bueno {*explicacion*}.
+
+<div>
+    <img src="images/semestre-3/edd-meme2.jpg" alt="collapse" height="auto">
+</div>
+
+Oh boy here we go :^)
+
+Algorithms: Discretas.
+
+Compilers: Lenguajes de programación.
 
 {% include links.html %}

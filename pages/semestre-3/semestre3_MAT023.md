@@ -23,9 +23,9 @@ La tercera es la vencida xdxddd
 - Semestre en que se dicta: Ambos (Par/Impar).
 - Prerrequisitos: MAT-022.
 
----
-
 ## Contenidos:
+
+<img align= "right" width= "400" height= "400" src= images/semestre-3/mate3-meme1.jpg>
 
 - Transformaciones lineales.
 - Funciones de varias variables.
@@ -33,8 +33,6 @@ La tercera es la vencida xdxddd
 - Ecuaciones diferenciales de orden superior.
 - Transformada de Laplace.
 - Series e integral de Fourier.
-
----
 
 ## Comentarios de los alumnos:
 
