@@ -1,7 +1,7 @@
 ---
 title: Computación Científica [CC](Ex CC1+CC2)
 keywords: computación, cientifica, splines
-last_updated: August 24, 2020
+last_updated: August 26, 2020
 summary: "Analizar métodos computacionales de la matemática aplicada y los utilizarlos para resolver problemas atingentes a la ingeniería. Desarrollar habilidades de significativa importancia tales como: análisis, síntesis, resolución computacional de problemas y evaluación crítica de los resultados computacionales."
 sidebar: main_sidebar
 permalink: semestre7_INF285.html
@@ -50,6 +50,7 @@ folder: semestre-7
 * Paro 2019 ---> 3 quizes en un solo día \*sad noises\*
 * Ce pasa Colo
 * CC de CC en CC, cccccc
+* Resolver Ax = b el ramo.
 
 
 [1]: https://www.com

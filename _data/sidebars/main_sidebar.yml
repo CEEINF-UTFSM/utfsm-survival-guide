@@ -107,3 +107,22 @@ entries:
           url: /semestre7_INF293.html
           output: web
 
+
+      - title: Semestre 10 + 1
+        output: web
+        subfolderitems:
+
+        - title: Taller Desarrollo de Proyecto de Informática
+          url: /semestre10_INF228.html
+          output: web
+
+        - title: Trabajo de Título I
+          url: /semestre10_INF309.html
+          output: web
+
+        - title: Trabajo de Título II
+          url: /semestre10_INF310.html
+          output: web
+
+        
+

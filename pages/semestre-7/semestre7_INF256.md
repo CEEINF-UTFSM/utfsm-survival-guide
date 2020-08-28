@@ -1,7 +1,7 @@
 ---
 title: Redes de computadores
 keywords: Redes, RFC, capas, kpas, kapas, paquetes
-last_updated: August 18, 2020
+last_updated: August 26, 2020
 summary: "Aprenderás los fundamentos sobre los cuales se construyen las redes de computadores y sus servicios asociados. Al igual que Configurar, administrar redes simples y utilizar sus servicios a través de aplicaciones. Integrar los conceptos que sustentan las redes de computadores modernas y los servicios que se construyen sobre ellas como sustrato de los sistemas de información distribuidos."
 sidebar: main_sidebar
 permalink: semestre7_INF256.html
