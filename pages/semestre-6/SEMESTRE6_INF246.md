@@ -1,11 +1,13 @@
 ---
 title: Sistemas‌ ‌Operativos‌ [SO]
-keywords: documentation theme, jekyll, technical writers, help authoring tools, hat replacements
+keywords: Infraestructura TIC, documentation theme, jekyll, technical writers, help authoring tools, hat replacements
 last_updated: July 3, 2016
-tags: ["Infraestructura TIC"]
-summary: "‌"
+tags:
+summary: "El estudiante adquiere conceptos y principios de los sistemas operativos, su diseño y construcción.
+Desarrolla habilidades para programar aplicaciones basándose en los servicios que provee el sistema
+operativo a nivel de llamadas al sistema.‌"
 sidebar: main_sidebar
-permalink: S6-INF-246.html
+permalink: semestre6_INF246.html
 folder: semestre-6
 ---
 
@@ -21,7 +23,12 @@ folder: semestre-6
 
 ## Contenidos:‌ ‌
 
-[inserte‌ ‌contenidos‌ ‌aquí]‌ ‌
+- Organización y estructura de un sistema operativo moderno.
+- Planificación de tareas, gestión de interrupciones y del tiempo.
+- Interfaces de programación y llamadas al sistema.
+- Gestión de memoria, memoria virtual y algoritmos de remplazo de páginas.
+- Procesos, concurrencia y mecanismos de sincronización.
+- Gestión de discos y sistemas de archivos.
 ‌
 
 ## Comentarios‌ ‌de‌ ‌los‌ ‌alumnos:‌ ‌

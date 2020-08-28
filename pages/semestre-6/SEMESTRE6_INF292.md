@@ -1,11 +1,16 @@
 ---
 title: Optimización‌‌ ‌‌[Opti](Ex‌ ‌IO1)‌
-keywords: documentation theme, jekyll, technical writers, help authoring tools, hat replacements
+keywords: Sistemas de decisión informática
 last_updated: July 3, 2016
-tags: ["Sistemas de decisión informática"]
-summary: "‌"
+tags:
+summary: "‌Los estudiantes comprenden los fundamentos de la formulación de modelos deterministas de
+programación matemática. Resuelve los modelos desarrollados y analizan los resultados, utilizando
+algoritmos de optimización. Aplican modelos de programación lineal, lineal entera o dinámica para
+resolver problemas reales.
+Los estudiantes desarrollan solidos saberes para resolver problemas de programación matemática,
+integrando el modelamiento de redes."
 sidebar: main_sidebar
-permalink: S6-INF-292.html
+permalink: semestre6_INF292.html
 folder: semestre-6
 ---
 
@@ -21,8 +26,13 @@ folder: semestre-6
 
 ## Contenidos:‌ ‌
 
-[inserte‌ ‌contenidos‌ ‌aquí]‌ ‌
-Comentarios‌ ‌de‌ ‌los‌ ‌alumnos:‌ ‌
+- Programación Lineal.
+- Programación Lineal Entera.
+- Programación Dinámica.
+- Teoría de Redes.
+- Técnicas de Programación de Proyectos.
+
+## Comentarios‌ ‌de‌ ‌los‌ ‌alumnos:‌ ‌
 
 - Estudiando‌ ‌de‌ ‌los‌ ‌certámenes‌ ‌anteriores‌ ‌se‌ ‌puede‌ ‌pasar.‌ ‌
 - Muchos‌ ‌de‌ ‌los‌ ‌ejercicios‌ ‌tipo‌ ‌certamen‌ ‌son‌ ‌mecanizables‌ ‌(Se‌ ‌hacen‌ ‌todos‌ ‌igual).‌ ‌

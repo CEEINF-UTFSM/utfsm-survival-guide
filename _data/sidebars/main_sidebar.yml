@@ -57,29 +57,6 @@ entries:
                     url: /tag_special_layouts.html
                     output: web
 
-              - title: Semestre 6
-                output: web
-                subfolderitems:
-                  - title: Analisis y Diseño de Software
-                    url: /S6-INF-236.html
-                    output: web
-
-                  - title: Algoritmos‌ ‌y‌ ‌Complejidad‌
-                    url: /S6-INF-221.html
-                    output: web
-
-                  - title: Ingeniería,‌ ‌Informática‌ ‌y‌ ‌Sociedad
-                    url: /S6-INF-276.html
-                    output: web
-
-                  - title: Optimización
-                    url: /S6-INF-292.html
-                    output: web
-
-                  - title: Sistemas‌ ‌Operativos‌
-                    url: /S6-INF-246.html
-                    output: web
-
               - title: Semestre 3
                 output: web
                 subfolderitems:
@@ -101,6 +78,29 @@ entries:
 
                   - title: Física General III
                     url: /semestre3_FIS130.html
+                    output: web
+                    
+              - title: Semestre 6
+                output: web
+                subfolderitems:
+                  - title: Analisis y Diseño de Software
+                    url: /semestre6_INF236.html
+                    output: web
+
+                  - title: Algoritmos‌ ‌y‌ ‌Complejidad‌
+                    url: /semestre6_INF221.html
+                    output: web
+
+                  - title: Ingeniería,‌ ‌Informática‌ ‌y‌ ‌Sociedad
+                    url: /semestre6_INF276.html
+                    output: web
+
+                  - title: Optimización
+                    url: /semestre6_INF292.html
+                    output: web
+
+                  - title: Sistemas‌ ‌Operativos‌
+                    url: /semestre6_INF246.html
                     output: web
 
               - title: Semestre 9
