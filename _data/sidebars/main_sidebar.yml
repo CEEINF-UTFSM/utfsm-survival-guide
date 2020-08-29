@@ -15,6 +15,31 @@ entries:
       output: web, pdf
       type: homepage
 
+
+      subfolders:
+      - title: Acerca de la Universidad
+        output: web
+
+        subfolderitems:
+
+        - title: Información Básica
+          url: /semestre1_MAT021.html
+          output: web
+
+        - title: Preguntas Frecuentes
+          url: /semestre1_MAT021.html
+          output: web
+
+        - title: Línks de interés
+          url: /semestre1_MAT021.html
+          output: web
+
+        - title: Easter Eggs
+          url: /semestre1_MAT021.html
+          output: web
+
+
+
     - title: Plataformas de Informática
       url: /mydoc_supported_features.html
       output: web, pdf
@@ -31,10 +56,6 @@ entries:
   - title: Asignaturas
     output: web
     folderitems:
-
-    - title: Indice General
-      url: /semestres.html
-      output: web
 
       subfolders:
       - title: Semestre 1
