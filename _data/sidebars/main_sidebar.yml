@@ -15,7 +15,6 @@ entries:
       output: web, pdf
       type: homepage
 
-
       subfolders:
       - title: Acerca de la Universidad
         output: web
@@ -37,16 +36,10 @@ entries:
         - title: Easter Eggs
           url: /semestre1_MAT021.html
           output: web
-
-
-
     - title: Plataformas de Informática
       url: /mydoc_supported_features.html
       output: web, pdf
 
-    - title: Profesores
-      url: /mydoc_about.html
-      output: web, pdf
 
     - title: Cómo Aportar Al Sitio
       url: /mydoc_about.html
@@ -56,6 +49,10 @@ entries:
   - title: Asignaturas
     output: web
     folderitems:
+
+    - title: Profesores
+      url: /mydoc_about.html
+      output: web, pdf
 
       subfolders:
       - title: Semestre 1
