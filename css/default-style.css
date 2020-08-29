@@ -2,6 +2,7 @@
     #right-img{
         float: right;
         margin: 25px;
+        max-width: 40%;
     }
 }
 @media screen and (max-width: 500px) {

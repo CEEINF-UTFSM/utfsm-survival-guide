@@ -9,6 +9,8 @@ folder: semestre-7
 ---
 *Oh god... what have i done to deserve this?*
 
+<img id="right-img" src="{{ site.baseurl }}/images/cholesky_decompose.png">
+
 ## Información General:
 * Sigla: INF-285.
 * Nivel de dificultad según estudiantes: Nadie sabe, vamos a saber cuando dicten el ramo completo por primera vez. 8/10 hasta el momento.
