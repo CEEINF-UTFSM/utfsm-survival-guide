@@ -8,6 +8,7 @@ permalink: semestre7_INF256.html
 folder: semestre-7
 ---
 
+<img id="right-img" src="{{ site.baseurl }}/images/semestre7/TCP_UDP.png">
 
 ## Información General:
 * Sigla: INF-256.

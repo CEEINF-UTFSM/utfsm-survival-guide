@@ -8,6 +8,7 @@ permalink: semestre7_ICN270.html
 folder: semestre-7
 ---
 
+<img id="right-img" src="{{ site.baseurl }}/images/semestre7/stonks.png">
 
 ## Información General:
 * Sigla: ICN-270

@@ -9,7 +9,7 @@ folder: semestre-7
 ---
 *Oh god... what have i done to deserve this?*
 
-<img id="right-img" src="{{ site.baseurl }}/images/cholesky_decompose.png">
+<img id="right-img" src="{{ site.baseurl }}/images/semestre7/cholesky_decompose.png">
 
 ## Información General:
 * Sigla: INF-285.

@@ -8,7 +8,7 @@ permalink: semestre4_INF155.html
 folder: semestre-4
 ---
 <link rel="stylesheet" href="{{ site.baseurl }}/css/comic-sans.css">
-<img id="right-img" src="{{ site.baseurl }}/images/comic_sans.png">
+<img id="right-img" src="{{ site.baseurl }}/images/semestre4/comic_sans.png">
 
 ## Información General:
 * Sigla: INF-155

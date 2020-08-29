@@ -9,6 +9,7 @@ folder: semestre-1
 ---
 Puta vai a correr harto, no sé qué esperabas de un ramo con este nombre.
 
+<img id="right-img" src="{{ site.baseurl }}/images/semestre1/run_as_admin.png">
 
 ## Información General:
 * Sigla: EFI 100.
