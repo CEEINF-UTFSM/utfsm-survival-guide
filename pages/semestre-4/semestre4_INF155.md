@@ -8,6 +8,7 @@ permalink: semestre4_INF155.html
 folder: semestre-4
 ---
 <link rel="stylesheet" href="{{ site.baseurl }}/css/comic-sans.css">
+<img id="right-img" src="{{ site.baseurl }}/images/comic_sans.png">
 
 ## Información General:
 * Sigla: INF-155
@@ -17,7 +18,6 @@ folder: semestre-4
 * Prerrequisitos: Estructuras de Datos y Estructuras Discretas.
 * Eje formativo:  Ciencias de la Ingeniería -Informática para problemas complejos en la Industria
 * Semestre en que se dicta: Ambos
-
 
 ## Contenidos
 
