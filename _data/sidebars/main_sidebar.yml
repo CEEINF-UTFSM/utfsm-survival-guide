@@ -22,7 +22,7 @@ entries:
         subfolderitems:
 
         - title: Información Básica
-          url: /semestre1_MAT021.html
+          url: /info_basica.html
           output: web
 
         - title: Preguntas Frecuentes
