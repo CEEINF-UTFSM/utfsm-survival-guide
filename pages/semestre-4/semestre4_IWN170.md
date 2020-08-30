@@ -52,5 +52,7 @@ folder: semestre-4
 * Farias es entero tela y explica cómo y por qué en chila nos meten el pico en el ojo (corrupción, colusión, etc) (moraleja: hay que ir a votar).
 * **20 minutos después de comenzar la clase** "Chicos lo siento el superintendente me llamo y dice que debo ir para allá ahora" - Farias (2019-1)
 
-
+<div class="text-center mb-3">
+    <img src="{{ site.baseurl }}/images/semestre4/comic_sans.png">
+</div><br>
 {% include links.html %}
