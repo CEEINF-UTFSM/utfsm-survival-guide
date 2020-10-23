@@ -29,12 +29,12 @@ entries:
           url: /preguntas.html
           output: web
 
-        - title: Línks de interés
-          url: /semestre1_MAT021.html
+        - title: Links de interés
+          url: /links.html
           output: web
 
         - title: Easter Eggs
-          url: /semestre1_MAT021.html
+          url: /easter_eggs.html
           output: web
     - title: Plataformas de Informática
       url: /mydoc_supported_features.html
@@ -50,8 +50,8 @@ entries:
     output: web
     folderitems:
 
-    - title: Profesores
-      url: /mydoc_about.html
+    - title: Come To CS
+      url: /come_to_cs.html
       output: web, pdf
 
       subfolders:

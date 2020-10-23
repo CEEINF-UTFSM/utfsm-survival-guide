@@ -22,19 +22,6 @@ Solo una pega más. Vo dale.
 * Semestre en que se dicta: 
 
 
-## Contenidos
-
-*
-*
-*
-
-
-## Consejos
-*
-*
-*
-*
-
 
 ## Comentarios de alumnos
 
@@ -50,8 +37,6 @@ Solo una pega más. Vo dale.
 * Parece una excelente idea trabajar en la semana y escribir la memoria los fines de semana. It is not.
 * Una vez terminada la memoria la presentación es un trámite.
 
-
-[1]: https://www.com
 
 
 {% include links.html %}
