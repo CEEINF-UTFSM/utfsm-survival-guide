@@ -2,12 +2,15 @@
 title: Trabajo de Título II
 keywords: 
 last_updated: August 28, 2020
-summary: "xxxxxxxxx"
+summary: "El  estudiante culmina  el  proceso  formativo  del  estudiante  de  Ingeniería  Civil  Informática.  Su objetivo consiste en la realización de un proyecto final de carrera en algún ámbito de la disciplina,que le  permita integrar  sus  conocimientos  previos  y demostrar  que  tiene  la  capacidad  de innovación y/o creatividad definida en su perfil de egreso.En la asignatura Trabajo de Título 1 se define el problema a abordar. Ahora corresponde realizar la  solución  al  problema,  haciendo  uso  de  los  conocimientos  adquiridos  y de  las habilidades desarrolladas en el transcurso de la carrera."
 sidebar: main_sidebar
 permalink: semestre10_INF310.html
 folder: semestre-10
 ---
 
+A escribir mierda, mierda.
+
+Solo una pega más. Vo dale.
 
 ## Información General:
 * Sigla: INF-310
