@@ -1,5 +1,5 @@
 ---
-title: Trabajo de Título II [AKA]
+title: Trabajo de Título II
 keywords: 
 last_updated: August 28, 2020
 summary: "xxxxxxxxx"
@@ -10,12 +10,12 @@ folder: semestre-10
 
 
 ## Información General:
-* Sigla: 
-* Nivel de dificultad según estudiantes: 
-* Créditos USM: 
-* Créditos SCT: 
-* Prerrequisitos: 
-* Eje formativo:  
+* Sigla: INF-310
+* Nivel de dificultad según estudiantes: 6/10 (8/10 si ya estás trabajando)
+* Créditos USM: 12
+* Créditos SCT: 20
+* Prerrequisitos: Taller Desarrollo de Proyecto de Informática, Trabajo de Título I, No morir.
+* Eje formativo: Ingeniería Aplicada - Gestión de Proyectos Informáticos
 * Semestre en que se dicta: 
 
 
@@ -35,10 +35,17 @@ folder: semestre-10
 
 ## Comentarios de alumnos
 
-*
-*
-*
-*
+* **Tu profe guia es ahora el que toma las decisiones. Si se te ocurre cambiar la estructura de lamemoria, añadir cosas, etc, etc, es el quien debe darte luz verde, no el departamento o el jefe de carrera** (a menos que el sea tu guia lolol).
+* Asume que no tienes ni la más puta idea de cómo escribir tu memoria.Tus profes sí saben. Pregúntales cómo se hace. Y hazles caso, por la cresta!
+*Jamás se olviden de sus objetivos. Toda su memoria tiene que estar encaminada a responder las preguntas que se plantean en sus objetivos. Eso les va a dar enfoque, y va a evitar que se hagan pega de más.
+* Cuando hagan sus experimento, ANOTEN TODO. Y CUANDO DIGO TODO, ES TODO. Después van a tener que usar esos datos para montar la sección de metodología.
+* Excel es su amigo. Si no aprendiero a usarlo en física, ggwp.
+* Si hicieron correctamente el estado del arte, pueden copypastear en su memoria.
+* No tengan miedo de plantear la memoria de fomra no cronólogica. Presenten la información de la forma que consideren más conveniente. \[NOTA: esto depende, hay profes a los que le simporta y otros que priorizan la planificación. Consulten las bases ante notario\]
+* Es posible que ciertos resultados de sus experimentos sean completamente inútiles. Eso es normal.
+* Si es el único ramo en el año, se puede pedir rebaja de arancel (20% dcto) y se paga el semestre en el que se toma, + la matrícula del semestre en que se da el exámen.
+* Parece una excelente idea trabajar en la semana y escribir la memoria los fines de semana. It is not.
+* Una vez terminada la memoria la presentación es un trámite.
 
 
 [1]: https://www.com
