@@ -37,11 +37,6 @@ entries:
           url: /easter_eggs.html
           output: web
           
-    - title: Plataformas de Informática
-      url: /mydoc_supported_features.html
-      output: web, pdf
-
-
     - title: Cómo Aportar Al Sitio
       url: /mydoc_about.html
       output: web, pdf
@@ -79,48 +74,50 @@ entries:
       - title: Semestre 2
         output: web
         subfolderitems:
-          - title: Ed. Física II
+
+        - title: Ed. Física II
           url: /semestre2_DEW101.html
           output: web
 
-          - title: Física General I
-            url: /semestre2_FIS110.html
-            output: web
+        - title: Física General I
+          url: /semestre2_FIS110.html
+          output: web
 
-          - title: Introducción A La Ingeniería
-            url: /semestre2_IWG101.html
-            output: web
+        - title: Introducción A La Ingeniería
+          url: /semestre2_IWG101.html
+          output: web
 
-          - title: Matemática II
-            url: /semestre2_MAT022.html
-            output: web
+        - title: Matemática II
+          url: /semestre2_MAT022.html
+          output: web
 
-          - title: Química Y Sociedad
-            url: /semestre2_QUI010.html
-            output: web
+        - title: Química Y Sociedad
+          url: /semestre2_QUI010.html
+          output: web
             
       - title: Semestre 3
         output: web
         subfolderitems:
-          - title: Estructuras de datos
-            url: /semestre3_EDD.html
-            output: web
 
-          - title: Estructuras Discretas
-            url: /semestre3_EDIS.html
-            output: web
+        - title: Estructuras de datos
+          url: /semestre3_EDD.html
+          output: web
 
-          - title: Matemática III
-            url: /semestre3_MAT023.html
-            output: web
+        - title: Estructuras Discretas
+          url: /semestre3_EDIS.html
+          output: web
 
-          - title: Teoría de Sistemas
-            url: /semestre3_TEOSIS.html
-            output: web
+        - title: Matemática III
+          url: /semestre3_MAT023.html
+          output: web
 
-          - title: Física General III
-            url: /semestre3_FIS130.html
-            output: web
+        - title: Teoría de Sistemas
+          url: /semestre3_TEOSIS.html
+          output: web
+
+        - title: Física General III
+          url: /semestre3_FIS130.html
+          output: web
             
       - title: Semestre 4
         output: web
@@ -173,25 +170,26 @@ entries:
       - title: Semestre 6
         output: web
         subfolderitems:
-          - title: Analisis y Diseño de Software
-            url: /semestre6_INF236.html
-            output: web
 
-          - title: Algoritmos‌ ‌y‌ ‌Complejidad‌
-            url: /semestre6_INF221.html
-            output: web
+        - title: Analisis y Diseño de Software
+          url: /semestre6_INF236.html
+          output: web
 
-          - title: Ingeniería,‌ ‌Informática‌ ‌y‌ ‌Sociedad
-            url: /semestre6_INF276.html
-            output: web
+        - title: Algoritmos‌ ‌y‌ ‌Complejidad‌
+          url: /semestre6_INF221.html
+          output: web
 
-          - title: Optimización
-            url: /semestre6_INF292.html
-            output: web
+        - title: Ingeniería,‌ ‌Informática‌ ‌y‌ ‌Sociedad
+          url: /semestre6_INF276.html
+          output: web
 
-          - title: Sistemas‌ ‌Operativos‌
-            url: /semestre6_INF246.html
-            output: web
+        - title: Optimización
+          url: /semestre6_INF292.html
+          output: web
+
+        - title: Sistemas‌ ‌Operativos‌
+          url: /semestre6_INF246.html
+          output: web
           
       - title: Semestre 7
         output: web
@@ -220,9 +218,9 @@ entries:
       - title: Semestre 9
         output: web
         subfolderitems:
-          - title: Gestion de Proyectos de Informatica
-            url: /semestre9_GESTIP.html
-            output: web
+        - title: Gestion de Proyectos de Informatica
+          url: /semestre9_GESTIP.html
+          output: web
             
       - title: Semestre 10 + 1
         output: web
