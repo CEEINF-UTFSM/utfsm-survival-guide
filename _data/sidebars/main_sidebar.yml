@@ -15,13 +15,31 @@ entries:
       output: web, pdf
       type: homepage
 
+      subfolders:
+      - title: Acerca de la Universidad
+        output: web
+
+        subfolderitems:
+
+        - title: Información Básica
+          url: /info_basica.html
+          output: web
+
+        - title: Preguntas Frecuentes
+          url: /preguntas.html
+          output: web
+
+        - title: Links de interés
+          url: /links.html
+          output: web
+
+        - title: Easter Eggs
+          url: /easter_eggs.html
+          output: web
     - title: Plataformas de Informática
       url: /mydoc_supported_features.html
       output: web, pdf
 
-    - title: Profesores
-      url: /mydoc_about.html
-      output: web, pdf
 
     - title: Cómo Aportar Al Sitio
       url: /mydoc_about.html
@@ -32,43 +50,97 @@ entries:
     output: web
     folderitems:
 
-    - title: Indice General
-      url: /semestres.html
-      output: web
+    - title: Come To CS
+      url: /come_to_cs.html
+      output: web, pdf
 
       subfolders:
       - title: Semestre 1
         output: web
         subfolderitems:
 
-        - title: Mate 201
-          url: /tag_formatting.html
-          output: web
-
-        - title: Progra
-          url: /tag_navigation.html
-          output: web
-
-        - title: Ed. Fisica
+        - title: Matemática I
           url: /semestre1_MAT021.html
           output: web
 
-        - title: Fisica 100
-          url: /tag_publishing.html
+        - title: Programación
+          url: /semestre1_IWI131.html
           output: web
 
-        - title: Química
-          url: /tag_special_layouts.html
+        - title: Ed. Física I
+          url: /semestre1_EFI100.html
           output: web
-      
-      - title: Semestre 2
+
+        - title: Física 100
+          url: /semestre1_FIS100.html
+          output: web
+
+
+      - title: Semestre 4
         output: web
         subfolderitems:
 
-        - title: Collaboration pages
-          url: /tag_collaboration.html
+        - title: Matemática IV
+          url: /semestre4_MAT024.html
           output: web
 
-        - title: Troubleshooting pages
-          url: /tag_troubleshooting.html
+        - title: Informática Teórica
+          url: /semestre4_INF155.html
           output: web
+
+        - title: Lenguajes de Programación
+          url: /semestre4_INF253.html
+          output: web
+
+        - title: ECONOMIA I-A
+          url: /semestre4_IWN170.html
+          output: web
+
+        - title: Física 120
+          url: /semestre4_FIS120.html
+          output: web
+
+          
+      - title: Semestre 7
+        output: web
+        subfolderitems:
+
+        - title: Ingeniería de Software
+          url: /semestre7_INF225.html
+          output: web
+
+        - title: Redes de computadores
+          url: /semestre7_INF256.html
+          output: web
+
+        - title: Información y Matemáticas Financieras
+          url: /semestre7_ICN270.html
+          output: web
+
+        - title: Computación Científica
+          url: /semestre7_INF285.html
+          output: web
+
+        - title: Investigación de Operaciones
+          url: /semestre7_INF293.html
+          output: web
+
+
+      - title: Semestre 10 + 1
+        output: web
+        subfolderitems:
+
+        - title: Taller Desarrollo de Proyecto de Informática
+          url: /semestre10_INF228.html
+          output: web
+
+        - title: Trabajo de Título I
+          url: /semestre10_INF309.html
+          output: web
+
+        - title: Trabajo de Título II
+          url: /semestre10_INF310.html
+          output: web
+
+        
+
