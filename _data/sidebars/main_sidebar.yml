@@ -75,7 +75,30 @@ entries:
         - title: Física 100
           url: /semestre1_FIS100.html
           output: web
+          
+      - title: Semestre 2
+        output: web
+        subfolderitems:
+          - title: Ed. Física II
+          url: /semestre2_DEW101.html
+          output: web
 
+          - title: Física General I
+            url: /semestre2_FIS110.html
+            output: web
+
+          - title: Introducción A La Ingeniería
+            url: /semestre2_IWG101.html
+            output: web
+
+          - title: Matemática II
+            url: /semestre2_MAT022.html
+            output: web
+
+          - title: Química Y Sociedad
+            url: /semestre2_QUI010.html
+            output: web
+            
       - title: Semestre 3
         output: web
         subfolderitems:
@@ -122,7 +145,31 @@ entries:
         - title: Física 120
           url: /semestre4_FIS120.html
           output: web
-          
+      
+      - title: Semestre 5
+        output: web
+        subfolderitems:
+
+        - title: Bases de Datos
+          url: /semestre5_INF239.html
+          output: web
+
+        - title: Arquitectura y Organizacion de Computadores
+          url: /semestre5_INF245.html
+          output: web
+
+        - title: Fisica 140
+          url: /semestre5_FIS140.html
+          output: web
+
+        - title: Estadistica Computacional
+          url: /semestre5_INF280.html
+          output: web
+        
+        - title: Organizaciones y Sistemas de Informacion
+          url: /semestre5_INF270.html
+          output: web
+
       - title: Semestre 6
         output: web
         subfolderitems:
@@ -193,4 +240,26 @@ entries:
           url: /semestre10_INF310.html
           output: web
 
-      
+      - title: Libres
+        output: web
+        subfolderitems:
+
+        - title: Crecimiento y Desarrollo Personal
+          url: /Libres_HRW104.html
+          output: web
+
+        - title: Ética
+          url: /Libres_HRW130.html
+          output: web
+
+        - title: Expresión oral y escrita
+          url: /Libres_HFW144.html
+          output: web
+
+        - title: Formación y liderazgo empresarial
+          url: /Libres_HRW131.html
+          output: web
+
+        - title: Historia Chilena Contemporánea
+          url: /Libres_HFW131.html
+          output: web
