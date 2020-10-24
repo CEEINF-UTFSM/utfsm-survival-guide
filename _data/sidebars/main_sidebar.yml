@@ -36,6 +36,7 @@ entries:
         - title: Easter Eggs
           url: /easter_eggs.html
           output: web
+          
     - title: Plataformas de Informática
       url: /mydoc_supported_features.html
       output: web, pdf
@@ -75,7 +76,29 @@ entries:
           url: /semestre1_FIS100.html
           output: web
 
+      - title: Semestre 3
+        output: web
+        subfolderitems:
+          - title: Estructuras de datos
+            url: /semestre3_EDD.html
+            output: web
 
+          - title: Estructuras Discretas
+            url: /semestre3_EDIS.html
+            output: web
+
+          - title: Matemática III
+            url: /semestre3_MAT023.html
+            output: web
+
+          - title: Teoría de Sistemas
+            url: /semestre3_TEOSIS.html
+            output: web
+
+          - title: Física General III
+            url: /semestre3_FIS130.html
+            output: web
+            
       - title: Semestre 4
         output: web
         subfolderitems:
@@ -99,7 +122,29 @@ entries:
         - title: Física 120
           url: /semestre4_FIS120.html
           output: web
+          
+      - title: Semestre 6
+        output: web
+        subfolderitems:
+          - title: Analisis y Diseño de Software
+            url: /semestre6_INF236.html
+            output: web
 
+          - title: Algoritmos‌ ‌y‌ ‌Complejidad‌
+            url: /semestre6_INF221.html
+            output: web
+
+          - title: Ingeniería,‌ ‌Informática‌ ‌y‌ ‌Sociedad
+            url: /semestre6_INF276.html
+            output: web
+
+          - title: Optimización
+            url: /semestre6_INF292.html
+            output: web
+
+          - title: Sistemas‌ ‌Operativos‌
+            url: /semestre6_INF246.html
+            output: web
           
       - title: Semestre 7
         output: web
@@ -125,7 +170,13 @@ entries:
           url: /semestre7_INF293.html
           output: web
 
-
+      - title: Semestre 9
+        output: web
+        subfolderitems:
+          - title: Gestion de Proyectos de Informatica
+            url: /semestre9_GESTIP.html
+            output: web
+            
       - title: Semestre 10 + 1
         output: web
         subfolderitems:
@@ -142,5 +193,4 @@ entries:
           url: /semestre10_INF310.html
           output: web
 
-        
-
+      
