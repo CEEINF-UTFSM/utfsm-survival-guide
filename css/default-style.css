@@ -1,0 +1,13 @@
+@media screen and (min-width: 500px) {
+    #right-img{
+        float: right;
+        margin: 25px;
+        max-width: 40%;
+    }
+}
+@media screen and (max-width: 500px) {
+    #right-img{
+        display: block;
+        margin: 0 auto;
+    }
+}

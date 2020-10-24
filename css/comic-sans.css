@@ -1,0 +1,18 @@
+@font-face {
+    font-family: ComicSansMS;
+    src: url(/css/fonts/ComicSansMS.ttf);
+}
+
+/*
+tg-sb-content: Todo el "contenido" de la pagina.
+body: Toda la pagina
+*/
+
+#tg-sb-content {
+    font-family: ComicSansMS;
+}
+
+.transparencias {
+    background-color: black;
+    color: white;
+}
