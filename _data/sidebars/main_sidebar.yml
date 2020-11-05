@@ -214,6 +214,26 @@ entries:
         - title: Investigación de Operaciones
           url: /semestre7_INF293.html
           output: web
+      
+      - title: Semestre 8
+        output: web
+        subfolderitems:
+
+        - title: Diseño de Interfaces Usuarias
+          url: /semestre8_INF322.html
+          output: web
+
+        - title: Sistemas Distribuidos
+          url: /semestre8_INF343.html
+          output: web
+
+        - title: Inteligencia Artificial
+          url: /semestre8_INF295.html
+          output: web
+
+        - title: Sistemas de Gestión 
+          url: /semestre8_INF266.html
+          output: web
 
       - title: Semestre 9
         output: web
