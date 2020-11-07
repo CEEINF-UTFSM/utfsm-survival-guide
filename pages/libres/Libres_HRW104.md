@@ -9,7 +9,7 @@ permalink: Libres_HRW104.html
 folder: libres
 ---
 
-<img align="right" width="250" height="700" src="https://cdn.discordapp.com/attachments/364193276062072842/746059654261375076/meme1.jpg">
+<img align="right" width="250" height="700" src="images/libres/HRW104.jpg">
 ## Informacion General
 * Sigla: HRW-104
 * Nivel de dificultad según estudiantes: -1. (Por defecto para cada libre)

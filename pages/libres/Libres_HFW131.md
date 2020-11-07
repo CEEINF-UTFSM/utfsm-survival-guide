@@ -9,7 +9,7 @@ permalink: Libres_HFW131.html
 folder: libres
 ---
 
-<img align="right" width="250" height="700" src="https://media.discordapp.net/attachments/364193276062072842/746082250294165654/51926028_345730799615239_3836389823875121152_o.png">
+<img align="right" width="250" height="700" src="images/libres/HFW131.png">
 ## Informacion General
 * Sigla: HFW-131
 * Nivel de dificultad según estudiantes: -1. (Por defecto para cada libre)

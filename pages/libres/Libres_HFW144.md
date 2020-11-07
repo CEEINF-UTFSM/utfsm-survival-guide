@@ -9,7 +9,7 @@ permalink: Libres_HFW144.html
 folder: libres
 ---
 
-<img align="right" width="250" height="700" src="https://media.discordapp.net/attachments/364193276062072842/746068382230642738/meme3.jpg">
+<img align="right" width="250" height="700" src="images/libres/HFW144.jpg">
 ## Informacion General
 * Sigla: HFW-144
 * Nivel de dificultad según estudiantes: -1. (Por defecto para cada libre)

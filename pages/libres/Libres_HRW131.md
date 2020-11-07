@@ -9,7 +9,7 @@ permalink: Libres_HRW131.html
 folder: libres
 ---
 
-<img align="right" width="250" height="700" src="https://media.discordapp.net/attachments/364193276062072842/746077052163326092/meme4.jpeg">
+<img align="right" width="250" height="700" src="images/libres/HRW131.jpg">
 ## Informacion General
 * Sigla: HRW-131
 * Nivel de dificultad según estudiantes: -1. (Por defecto para cada libre)
