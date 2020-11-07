@@ -58,7 +58,8 @@ folder: semestre-5
 
 __"Si veo alguna foránea me vuelvo loco, agarro el lápiz rojo y empiezo a rayar la prueba"__ - El Rasho Martí
     
-
+<img src="images/semestre-5/bd_meme.jpg" alt="collapse" height="auto">
+<img src="images/semestre-5/bd_meme2.jpg" alt="collapse" height="auto">
 
 
 {% include links.html %}

@@ -47,6 +47,7 @@ Laboratorio:
     + Antes se decía que los alumnos recibirán puntos por dar títulos creativos, pero esto ya no se aplica debido a los weones que comenzaron a usar títulos como "mi primer periodo", " siente el choce", "la que cuelga", etc. Si fuiste uno de ellos, desde aquí te saludo valiente guerrero (era un 0 garantizado xd).
     + **No inscribir en bloques 1 y 2, ni al primer lab de la semana**.
     + **Si se están echando el Lab**, vayan el último día a hablar con Maximiliano Araya. Les hará limpiar su oficina o construir algo con cosas recicladas a cambio de aprobar ;) (eso decían, ver reprobados con 53 del 2016-1 no más).
+    <img id="right-img" src="{{ site.baseurl }}/images/semestre-2/fis_110.jpg">
     + Antiguamente daban puntos por escribir el informe en LaTeX, pero ahora todo es en word y si el ayudante te deja, en PDF.
     + REY MAXO LA ANACONDA HUMANA \>\>\>\>\>\> ALL.
 * Belisario mandó tarea.

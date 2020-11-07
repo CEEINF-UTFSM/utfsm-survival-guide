@@ -17,7 +17,7 @@ folder: semestre-5
 * Prerrequisitos: Estructura de Datos (INF134)
 * Eje formativo: Ingeniería aplicada y Sistemas de Computacion
 * Semestre en que se dicta: Semestre V
-
+<img id="right-img" src="{{ site.baseurl }}/images/semestre-5/solar.jpg">
 
 ## Contenidos
 * Sistemas numéricos y compuertas. 
@@ -59,6 +59,6 @@ folder: semestre-5
 * "Eeeeeeh... Aaaaaaahmmmmmm..." -Solar, el 90% de las veces que habla.
 * Destacar que el materiald el curso (texto guía y ppts) están en inglés
 
-
+<img src="images/semestre-5/puestas_logicas.jpg" alt="collapse" height="auto">
 
 {% include links.html %}

@@ -31,4 +31,6 @@ folder: semestre-2
 * Pirámides humanas.
 * Ver saltar a Vitagliano el caballete \>\>\>\>\>\> ALL
 
+<img src="images/semestre-2/efi.jpg" alt="collapse" height="auto">
+
 {% include links.html %}

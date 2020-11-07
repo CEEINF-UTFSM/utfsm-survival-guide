@@ -19,6 +19,8 @@ folder: semestre-2
 * Eje formativo: Ciencias básicas de la Ingeniería 
 * Semestre en que se dicta: Ambos
 
+<img id="right-img" src="{{ site.baseurl }}/images/semestre-2/la_vaca.jpg">
+
 ## Contenidos
 
 * La integral
@@ -54,5 +56,6 @@ folder: semestre-2
 * **Aprendan bien matries, las necesitarán si pasan a mate 3 y a otros ramos informáticos (CC)**.
 * https://www.calculadora-de-integrales.com/
 * 2018-1 Control 1: Integral de raíz de tangente.
-* Imágenes.
+<img src="images/semestre-2/cuadratica.jpg" alt="collapse" height="auto">
+<img src="images/semestre-2/pi_k_pi.jpg" alt="collapse" height="auto">
 {% include links.html %}

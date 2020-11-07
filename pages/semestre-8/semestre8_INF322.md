@@ -18,9 +18,9 @@ folder: semestre-8
 * Prerrequisitos: ISW
 * Eje formativo: Ingeniería Aplicada - Desarrollo y Gestión de Infraestructura TIC
 * Semestre en que se dicta: Par
-
+<img id="right-img" src="{{ site.baseurl }}/images/semestre-8/diu1.jpg">
 # Contenido
-
+<img id="right-img" src="{{ site.baseurl }}/images/semestre-8/diu2.png">
 - Factores humanos del software interactivo.
 - Teorías, principios y pautas.
 - Procesos de diseño.

@@ -43,8 +43,23 @@ __OH BOI__
 * [Link de interés](http://students.brown.edu/seeing-theory/)
 
 
+# Registro histórico de notas:
+
+<img id="right-img" src="{{ site.baseurl }}/images/semestre-5/grafico_torta_estaca.jpg"> 
+
+- Año 2016:
+    - 45 alumnos
+    - 4 RAV
+    - 19 reprobados
+    - 22 aprobados
+    - 60% pasaron con el global (9 de 15 lo reprobaron)
+    - 3 corazones rotos
 
 
+
+## Notas:
+
+<img src="images/semestre-5/graficos_barra.jpg" alt="collapse" height="auto">
 
 ## Comentarios
 * Si tienes una duda el ayudante puede ayudarte... o puede no estar. Saber si lo encontrarás es parte del ejercicio estadístico (_encuentre el estimador del tiempo para encontrar al ayudante_). _"HU3HU3HU3" -Un ex-ayudante_
@@ -61,6 +76,7 @@ __OH BOI__
 * Antes se inflaban las notas con una distribución normal, pero ahora al parecer no.
 * Estaca es súper útil y se ve en la mayoría de las cosas, desde otros ramos hasta la vida cotidiana.
 
+<img src="images/semestre-5/estaca_says.jpg" alt="collapse" height="auto">
 
 
 {% include links.html %}

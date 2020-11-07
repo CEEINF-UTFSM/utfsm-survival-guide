@@ -17,7 +17,7 @@ folder: semestre-5
 * Prerrequisitos: FIS120 y FIS130
 * Eje formativo: Ciencias Básicas de la Ingeniería
 * Semestre en que se dicta: Semestre V
-
+<img id="right-img" src="{{ site.baseurl }}/images/semestre-5/fis140.jpg">
 
 ## Contenidos
 * Ondas electromagnéticas y naturaleza de la luz. 
