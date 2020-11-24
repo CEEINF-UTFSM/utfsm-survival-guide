@@ -41,7 +41,7 @@ folder: semestre-3
 - Ex-Ciento Trámite, hasta que el profe escuchó en San Joaquín que le decían así al ramo. RIP generaciones futuras.
 - En todo caso, ahora que salió Ruiz de la coordinación está más manejable el ramo. Ahora es una física cualquiera.
 - "Documento de onda" y "Documento de calor" SON LA LUZ CTM.
-- RE-SOR-TES. Un bloque de hie;o flotando en agua? Métale resorte. Una tubería a la que hay que calcularle el flujo máximo de agua? Hagámosla oscilar con un resorte para variar su presión. Un bloque de metal dilatándose por calor? SOPRESA, EL BLOQUE ES UN RESORTE.
+- RE-SOR-TES. Un bloque de hielo flotando en agua? Métale resorte. Una tubería a la que hay que calcularle el flujo máximo de agua? Hagámosla oscilar con un resorte para variar su presión. Un bloque de metal dilatándose por calor? SOPRESA, EL BLOQUE ES UN RESORTE.
 - Y no se limita a 130. **A todos los ejercicios se les puede poner un resorte... en cualquier parte y en cualquier física**.
 - Hay preguntas de resortes en todos los certámenes. Fluidos?? Un tanque de agua sumergiéndose con 2 resortes en el fondo para que oscile :D. Termodinámica? Aire que se calienta y comprime un resorte :D. Global?!!?? Fluido que es perturbado por calor y hace oscilar un resorte en el sistema :DDDD.
 - Continuando con lo de arriba, no olvides mencionar un resorte que empuja a otro resorte o 2 resortes, uno en cada extremo :D, a lo que se le puede sumar todas la variantes mencionadas anteriormente.

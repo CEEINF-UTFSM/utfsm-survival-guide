@@ -41,7 +41,7 @@ folder: semestre-3
 ## Comentarios de los alumnos:
 
 - "Mi libro ,*Tutorial de C*, ya está disponible en campus San Joaquín, Vitacura, Valparaíso y Guayaquil... **C** ...que te va a encantar..."
-- Alumno pregunta al incio del semestre, el profe responde: "Ah, se nota que no leyó mi libro Tutorial de C, porque la respuesta está ahí, le recomiendo leer el tutorial de C" o también dice: "Si quieren profundizar más la respuesta lean el tutorial de C, está muy weno, se los recomiendo."
+- Alumno pregunta al inicio del semestre, el profe responde: "Ah, se nota que no leyó mi libro Tutorial de C, porque la respuesta está ahí, le recomiendo leer el tutorial de C" o también dice: "Si quieren profundizar más la respuesta lean el tutorial de C, está muy weno, se los recomiendo."
 - Si te cuesta entenderle a Arroyuelo, mejor retírate de la U, es el profe que mejor explica y para adelante no hay salvatoria (Aunque Martí se la pelea) :c.
 - **C**... eficiente.
 - **C**... responsable.

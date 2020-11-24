@@ -17,7 +17,8 @@ folder: semestre-6
 
 - Sigla:‌ ‌INF-246‌ ‌
 - Nivel‌ ‌de‌ ‌dificultad‌ ‌según‌ ‌estudiantes:‌ ‌6/10‌ ‌
-- Créditos‌ ‌USM‌ ‌:‌ ‌ 5★
+- Créditos‌ ‌USM‌ ‌:‌ ‌ 3
+- Créditos SCT: 5
 - Prerrequisitos:‌ ‌Arqui.‌ ‌
 - Sitio‌ ‌oficial:‌ ‌ ‌
 

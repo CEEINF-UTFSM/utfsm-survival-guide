@@ -20,7 +20,8 @@ folder: semestre-6
 
 - Sigla:‌ ‌INF-292‌ ‌
 - Nivel‌ ‌de‌ ‌dificultad‌ ‌según‌ ‌estudiantes:‌ ‌5/10‌ ‌
-- Créditos‌ ‌USM‌ ‌:‌ ‌ 5★
+- Créditos‌ ‌USM‌ ‌:‌ ‌ 3
+- Créditos SCT: 5
 - Prerrequisitos:‌ ‌Mate‌ ‌3.‌ ‌A‌ ‌saber‌ ‌por‌ ‌qué...‌ ‌
 - Sitio‌ ‌oficial:‌ ‌ ‌
 

@@ -105,7 +105,7 @@ Procedure ed (alumno):
 	endwhile
 ~~~
 
-- ~~El ramo es bonito pero incomprendido uu~~
+- ~~El ramo es bonito pero incomprendido u______u~~
 
 - Improvisar también es un talento.
 
@@ -162,7 +162,3 @@ Procedure ed (alumno):
 
 
 {% include links.html %}
-
-~~~
-
-~~~

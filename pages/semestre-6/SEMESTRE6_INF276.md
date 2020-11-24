@@ -17,7 +17,8 @@ folder: semestre-6
 
 - Sigla:‌ ‌INF-276‌ ‌
 - Nivel‌ ‌de‌ ‌dificultad‌ ‌según‌ ‌estudiantes:‌ ‌x/10‌ ‌{x=6‌ ‌si‌ ‌lo‌ ‌haces‌ ‌en‌ ‌serio,‌ ‌x=2‌ ‌si‌ ‌mientes}‌ ‌
-- Créditos‌ ‌USM‌ ‌:‌ ‌ ‌5★
+- Créditos‌ ‌USM‌ ‌:‌ ‌ ‌3
+- Créditos SCT: 5
 - Prerrequisitos:‌ ‌OrgSisInf.‌ ‌
 - Sitio‌ ‌oficial:‌ ‌ ‌
 

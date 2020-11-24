@@ -18,7 +18,8 @@ folder: semestre-6
 
 - Sigla:‌ ‌INF-236‌ ‌
 - Nivel‌ ‌de‌ ‌dificultad‌ ‌según‌ ‌estudiantes:‌ ‌5/10‌ ‌
-- Créditos‌ ‌USM‌:‌ ‌5★
+- Créditos‌ ‌USM‌:‌ ‌3
+- Créditos SCT: 5
 - Prerrequisitos:‌ ‌LP‌ ‌y‌ ‌BD.‌ ‌
 - Sitio‌ ‌oficial:‌ ‌ ‌
 
