@@ -38,7 +38,7 @@ entries:
           output: web
           
     - title: Cómo Aportar Al Sitio
-      url: /mydoc_about.html
+      url: /como_aportar.html
       output: web, pdf
 
 # Para agregar asignaturas, solo debes agregar el título y el nombre del archivo aquí. En caso de estar en una carpeta (como semestre-1) esto va indicado dentro del archivo.md, no aquí
