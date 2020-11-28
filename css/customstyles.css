@@ -289,6 +289,13 @@ li.dropdownActive a {
     margin-top:10px;
 }
 
+.Asomao {
+    height: 50px;
+    width: 50px;
+    position: absolute;
+    right: 5px;
+}
+
 .post-content .rssfeedLink {
     color: #248EC2;
 }
@@ -466,6 +473,20 @@ figcaption {
     font-style: italic;
     color: gray;
 
+}
+
+.foraneas {
+    font-size: 1.5em;
+    font-weight: 700;
+    font-family: 'Pinyon Script', cursive;
+}
+
+#Martí{
+    float: right;
+    margin: 25px;
+    max-width: 40%;
+    height: 196.64px;
+    width: 196.64px;
 }
 
 .testing {
