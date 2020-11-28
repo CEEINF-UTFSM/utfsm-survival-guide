@@ -1,5 +1,5 @@
 ---
-title: Taller Desarrollo de Proyecto de Informática [AKA]
+title: Taller Desarrollo de Proyecto de Informática [Feria]
 keywords: 
 last_updated: August 28, 2020
 summary: "El estudiante integra la metodología de proyectos a través de los conocimientos adquiridos en su plan de estudio, aplicándolos para obtener una solución informática a un problema real y multidisciplinario. El resultado del proyecto es expuesto al término de la asignatura, en una Feria Informática abierta a la comunidad interna y externa que cumple el rol de un examen final. Genera en los estudiantes competencias diferenciadoras, asociadas al emprendimiento, creatividad, innovación, autoaprendizaje, trabajo en equipo y gestión de proyectos."
