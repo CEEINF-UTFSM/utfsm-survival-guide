@@ -12,11 +12,9 @@ topnav_dropdowns:
   folders:
     - title: Links de interés
       folderitems:
-        - title: Jekyll Documentation Theme
-          url: /mydoc_introduction.html
+        - title: Instagram
+          external_url: https://www.instagram.com/ceeinf_sj/
         - title: Ceeinf FB
-          external_url: https://www.facebook.com/
-        - title: Memes
-          external_url: https://www.youtube.com/watch?v=5Mgv8Bff7wA&list=PLv3TTBr1W_9tppikBxAE_G6qjWdBljBHJ
+          external_url: https://www.facebook.com/ceeinf
         - title: Github Repo
-          external_url: https://github.com/redhelper/utfsm-survival-guide
+          external_url: https://github.com/CEEINF-UTFSM
