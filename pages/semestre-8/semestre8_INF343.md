@@ -1,9 +1,6 @@
 ---
 title: Sistemas Distribuidos
-keywords: documentation theme, jekyll, technical writers, help authoring tools, hat replacements
-last_updated: July 3, 2016
-tags: [getting_started]
-summary: "I have used this theme for projects that I've worked on as a professional technical writer."
+last_updated: December 22, 2020
 sidebar: main_sidebar
 permalink: semestre8_INF343.html
 folder: semestre-8
@@ -21,22 +18,22 @@ folder: semestre-8
 
 # Contenido
 
-- Conceptos generales y arquitecturas en Sistemas Distribuidos.
-- Desarrollo de Software Distribuido.
-- Teoría de Computación Distribuida.
-- Algoritmos Distribuidos.
-- Tolerancia a Fallas.
-- Base de Datos y Transacciones Distribuidas.
-- Replicación de Datos y Procesos.
-- Seguridad en Sistemas Distribuidos.
+* Conceptos generales y arquitecturas en Sistemas Distribuidos.
+* Desarrollo de Software Distribuido.
+* Teoría de Computación Distribuida.
+* Algoritmos Distribuidos.
+* Tolerancia a Fallas.
+* Base de Datos y Transacciones Distribuidas.
+* Replicación de Datos y Procesos.
+* Seguridad en Sistemas Distribuidos.
 
 
 # Comentarios
 
-* No hay reglas de nota mínima de cértamenes así que asegurate con los controles y tareas.
+* No hay reglas de nota mínima de certámenes así que asegúrate con los controles y tareas.
 * Primeras diapos son todo lo que has visto en SO y redes.
 * El 2019-2 lo dictó Solar:
-	- No había ayudante de cátedra y el ayudante de tareas estuvo MIA durante todo el semestre.
-	- Se dice que el alumno y el profesor llegarn al ramo sabiendo lo mismo, pero aún hay dudas sobre quién terminó aprendiendo más.
+    * No había ayudante de cátedra y el ayudante de tareas estuvo MIA durante todo el semestre.
+    * Se dice que el alumno y el profesor llegaron al ramo sabiendo lo mismo, pero aún hay dudas sobre quién terminó aprendiendo más.
 
 {% include links.html %}

@@ -1,8 +1,8 @@
 ---
 title: Lenguajes de Programación [LP]
 keywords: LP, fundamentos de informática
-last_updated: August 18, 2020
-summary: "Esta  asignatura  forma  parte  del  plan  de  estudios  de  la  carrera  Ingeniería  Civil  Informática, conducente a la Licenciatura en Ciencias de la Ingeniería. El propósito de ésta es dar conocer los conceptos  más  relevantes  asociados  al  diseño  de  lenguajes  y  los  principales  paradigmas  de programación,  que  permitan  al  estudiante  evaluar  críticamente  diferentes  lenguajes  de programación  y  elegir  el  más  adecuado,  para  resolver  un  determinado  tipo  de  problema  de programación y facilitar el aprendizaje de nuevos lenguajes."
+last_updated: December 22, 2020
+summary: "Esta asignatura forma parte del plan de estudios de la carrera Ingeniería Civil Informática, conducente a la Licenciatura en Ciencias de la Ingeniería. El propósito de esta es dar conocer los conceptos más relevantes asociados al diseño de lenguajes y los principales paradigmas de programación, que permitan al estudiante evaluar críticamente diferentes lenguajes de programación y elegir el más adecuado, para resolver un determinado tipo de problema de programación y facilitar el aprendizaje de nuevos lenguajes."
 sidebar: main_sidebar
 permalink: semestre4_INF253.html
 folder: semestre-4
@@ -50,7 +50,7 @@ folder: semestre-4
 * Herencia Herencia Herencia Herencia Herencia Herencia Herencia Herencia Herencia Herencia Herencia Herencia Herencia Herencia Herencia Herencia Herencia Herencia Herencia Herencia Herencia Herencia Herencia Herencia Herencia Herencia
 * Qué es Prolog? Imagina programar discretas...
 * Void pointer
-* Profe en recorrección: aaaa si, su respuesta esta buena, funciona, pero no hizo un buen uso del lenguaje... -15 puntos - Martí. Siempre.
+* Profe en recorrección: aaaa si, su respuesta está buena, funciona, pero no hizo un buen uso del lenguaje... -15 puntos - Martí. Siempre.
 * Las tareas desde 2019 vienen con lore, Papa Noél (2019-1), Gemas del infinito (2019-2), Mario (2020-1) (si en todas hasta en prolog)
 
 

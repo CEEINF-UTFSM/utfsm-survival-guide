@@ -1,7 +1,7 @@
 ---
 title: Información Básica
 keywords: 
-last_updated: September 20, 2020
+last_updated: December 22, 2020
 sidebar: main_sidebar
 permalink: info_basica
 folder: universidad
@@ -16,7 +16,7 @@ Durante las primeras semanas de clases, el profesor de cada asignatura debe info
 * Calendario de evaluaciones.
 * Datos de contacto.
 * Horarios de consulta.
-* Reglas del juego: Si requiere asistencia, aydudantías, talleres, controles, etc.
+* Reglas del juego: Si requiere asistencia, ayudantías, talleres, controles, etc.
 
 Ante cualquier duda acércate al profesor de la asignatura o en su defecto a la secretaria de docencia para obtener más información (la secretaria es en especial para profesores de otros departamentos).
 
@@ -32,7 +32,7 @@ A veces segunda, a veces tercera, varía dependiendo del semestre. Si ya van ~~t
 
 ### Cómo redireccionar en GMAIL 
 Si por ejemplo quisieras redireccionar los correos de @alumnos.inf.utfsm.cl a tu correo @sansano
-1. Entra a gmail (duh) con la cuenta @alumnos.inf.utfsm.cl
+1. Entra a Gmail (duh) con la cuenta @alumnos.inf.utfsm.cl
 2. Anda a Configuración -> Reenvío y correo POP/IMAP
 3. En el apartado de Reenvío marca la opción “Reenviar una copia del correo entrante a”. Rellena el campo con tu correo @sansano y selecciona “marcar la copia como leída”, de esta forma no tendrás que leer dos veces los correos.
 4. Anda al final de la página y guarda los cambios.
@@ -68,13 +68,13 @@ El contenido presente en la sección de cada ramo depende del material que suba 
 
 
 
-## Proceso de mejora contínua del DI
+## Proceso de mejora continua del DI
 
 Para mejorar la calidad de nuestra carrera el departamento, en conjunto con la dirección de pregrado, está constantemente tomando medidas, para además preparar los procesos de reacreditación. Dentro de estas medidas están:
 
 ### Evaluación en encuesta docente
 
-Al término de cada semestre, bajo la responsabilidad de cada alumno, se podrá evaluar el desempeño académico de cada profesor del DI via SIGA y *moodle*. Los resultados de estas encuestas son analizados con el objetivo de ir ayudando a mejorar las “actividades en el aula” y la calidad de los contenidos entregados. Asimismo con las ayudantías. **Es importante que rellenen la encuesta de la manera más completa y correcta posible, ya que a nuestro departamento le importa el feedback de sus alumnos.**
+Al término de cada semestre, bajo la responsabilidad de cada alumno, se podrá evaluar el desempeño académico de cada profesor del DI vía SIGA y *moodle*. Los resultados de estas encuestas son analizados con el objetivo de ir ayudando a mejorar las “actividades en el aula” y la calidad de los contenidos entregados. Asimismo con las ayudantías. **Es importante que rellenen la encuesta de la manera más completa y correcta posible, ya que a nuestro departamento le importa el feedback de sus alumnos.**
 
 En el caso de moodle hay 3 encuestas por semestre, una por cada ramo informático a inicio, medio y fin de semestre.
 
@@ -91,11 +91,11 @@ Cada año por octubre se organizaba (durante la semana sansana) una reunión anu
 
 <img id="Martí" src="images/universidad/martí_stemen.png" alt="Martí">
 
-José Luis Martí es un profesor sumamente simpático pero a la vez muy estricto por lo que no se relajen. Debido a esto el rumor de pasillo dice que “*Martí es la luz hasta que te pone una nota*”. Es el vínculo entre el DI y la Universidad.
+José Luis Martí es un profesor sumamente simpático, pero a la vez muy estricto por lo que no se relajen. Debido a esto el rumor de pasillo dice que “*Martí es la luz hasta que te pone una nota*”. Es el vínculo entre el DI y la Universidad.
 
 * **Contacto**
-    * **Su email es [jmarti@inf.utfsm.cl][mail_marti]. recuérdenlo y anótelo porque lo necesitará al menos 3 veces al año.**
-    * Horario de atención: Lunes a Jueves, de 10:00 a 11:30 am. (Puede variar) Oficina A-141 (Al lado de las secretarías del departamento).
+    * **Su email es [jmarti@inf.utfsm.cl][mail_marti]. Recuérdenlo y anótelo porque lo necesitará al menos 3 veces al año.**
+    * Horario de atención: Lunes a jueves, de 10:00 a 11:30 am. (Puede variar) Oficina A-141 (Al lado de las secretarías del departamento).
 
 * **Comentarios**
     * Pórtense bien con él, puesto que también es profesor ~~(se los puede rajar brigidamente)~~.
@@ -132,18 +132,18 @@ Desde 2019-1 se puede calcular la prioridad de forma interactiva desde la [Malla
 ### Comentarios del alumnado sobre PA
 * No es lo mismo reprobar un ramo con 0 que con 15, la nota final afecta a la prioridad y mientras más baja la nota, más disminuye esta última. **Esta baja de forma crítica en los primeros semestres.**
 * Para la mayoría de los trámites, en general vale callampa.
-* Solo sirve para las físicas/mates durante la toma de ramos, e igual te puedes colar a las clases con tus profesores favoritos. El problema está cuando hay un profe que da puntos pero no pudiste entrar a su paralelo, porque te pondrá las notas otro o si, por otro lado, necesitas justamente 1 paralelo porque tienes tope de horario. ~~(El truco está en echarse mate y tomar ramos con los vtr2/3)~~
+* Solo sirve para las físicas/mates durante la toma de ramos, e igual te puedes colar a las clases con tus profesores favoritos. El problema está cuando hay un profe que da puntos, pero no pudiste entrar a su paralelo, porque te pondrá las notas otro. O si, por otro lado, necesitas justamente 1 paralelo porque tienes tope de horario. ~~(El truco está en echarse mate y tomar ramos con los vtr2/3)~~
 * Sirve para que no te echen (duh).
 * Si quieres irte de intercambio es útil.
-* La prioridad sirve para que te den ayudantías (sólo válido si el profe no tiene a alguno como “favorito” desde antes).
+* La prioridad sirve para que te den ayudantías (solo válido si el profe no tiene a alguno como “favorito” desde antes).
 * Sirve para el mítico segundo VTR3 (prioridad sobre 4k).
 * Si quieres ejercer 2 ayudantías, piden prioridad.
 
 ### Reglamento académico para reprobación de asignaturas
 La parte que todos necesitamos conocer en algún punto de la carrera. Dentro de las normas se tiene:
-* La nota de aprobación es un 55 (éste es el 4.0 en la USM) ~~en verdad es como un 4.3~~
-* Una asignatura se puede reprobar sólo dos veces.
-* Una tercera oportunidad se da sólo una vez en toda la carrera. Sólo de manera excepcional se puede pedir una *segunda tercera vez*, **pero no en el caso de ramos de primer año.** Ojo con ese “*se puede pedir*”, no quiere decir que te la vayan a dar.
+* La nota de aprobación es un 55 (este es el 4.0 en la USM) ~~en verdad es como un 4.3~~
+* Una asignatura se puede reprobar solo dos veces.
+* Una tercera oportunidad se da solo una vez en toda la carrera. Solo de manera excepcional se puede pedir una *segunda tercera vez*, **pero no en el caso de ramos de primer año.** Ojo con ese “*se puede pedir*”, no quiere decir que te la vayan a dar.
 * A partir del segundo año el tener una prioridad académica inferior a 2500 implica la expulsión de la carrera.
 
 ### Acerca de la lista kamikaze
@@ -170,11 +170,11 @@ Cada semestre en portal SIGA se publica la circular de Inscripción de asignatur
 
 **¿Cuántas Rebajas Académica Voluntarias se pueden realizar por semestre?**
 
-Puede realizar sólo una Rebaja Académica Voluntaria por período. Una vez efectuado esto, el estudiante no podrá volver a des-inscribir la misma asignatura a través de esta vía.
+Puede realizar solo una Rebaja Académica Voluntaria por período. Una vez efectuado esto, el estudiante no podrá volver a des-inscribir la misma asignatura a través de esta vía.
 
 **¿Cuántas Rebajas Académica Voluntarias se pueden realizar durante la carrera?**
 
-Por acuerdo del Consejo Académico N°343, Acuerdo N° 783, N° 3, de Junio de 2015, el número de oportunidades será el equivalente a la extensión curricular en años de la respectiva carrera, las que se podrán ejercer a partir del segundo año académico. Esto se redondea hacia abajo, de forma que para los informáticos son 5 botones en total.
+Por acuerdo del Consejo Académico N°343, Acuerdo N°783, N°3, de Junio de 2015, el número de oportunidades será el equivalente a la extensión curricular en años de la respectiva carrera, las que se podrán ejercer a partir del segundo año académico. Esto se redondea hacia abajo, de forma que para los informáticos son 5 botones en total.
 
 ### Inscripción de asignaturas libres
 
@@ -193,7 +193,7 @@ Para aquellos estudiantes que no puedan pagar a través de las alternativas señ
 **Situaciones Especiales de Deuda**
 
 * Si la deuda se genera por la **no firma del pagaré de crédito universitario** (FSCU o CU USM), descargar su pagaré anual vigente [aquí][siga_beneficios], legalizarlo ante notario y entregarlo en la Secretaría de Bienestar Estudiantil de su respectivo Campus o Sede.
-* **Renovantes confirmados que están a la espera de la recepción y carga de su beneficio:** Crédito Aval Estado; Beca Federico Santa María; Beca Puntaje Nacional USM. Estarán habilitados excepcionalmente para pre-inscribir sus asignaturas, pese a tener deuda de arancel en dicho periodo. Manteniéndose el bloqueo sólo a aquellos estudiantes con saldo pendiente de pago por causales distintas a las mencionadas (Ej. Matrícula, arancel de periodos anteriores, etc.), quienes deberán regularizar su situación, a través de las formas de pago indicadas previamente o [aquí][portal_ser].
+* **Renovantes confirmados que están a la espera de la recepción y carga de su beneficio:** Crédito Aval Estado; Beca Federico Santa María; Beca Puntaje Nacional USM. Estarán habilitados excepcionalmente para preinscribir sus asignaturas, pese a tener deuda de arancel en dicho periodo. Manteniéndose el bloqueo solo a aquellos estudiantes con saldo pendiente de pago por causales distintas a las mencionadas (Ej. Matrícula, arancel de periodos anteriores, etc.), quienes deberán regularizar su situación, a través de las formas de pago indicadas previamente o [aquí][portal_ser].
 * **Alumnos primerizos usando el crédito con aval del estado:** Para respaldar la deuda que será financiada con CAE adjudicado por primera vez y que aún no ha sido recepcionado por la Universidad, el alumno debe ingresar su solicitud de regularización de deuda [aquí][portal_ser], siguiendo las instrucciones publicadas en el mismo portal.
 
 Revisar [este documento][regularizar_deuda_info] para mayor información.
@@ -208,7 +208,7 @@ Revisar [este documento][regularizar_deuda_info] para mayor información.
 
 ### En caso de conflictos o actitudes indebidas desde un profesor
 
-En caso de que algún profesor les grite, los amenace, o tenga una actitud con uds que los haya hecho sentir pasados a llevar o violentados, hay un conducto regular medio tránsfugo. Dependiendo de la gravedad del asunto, y de qué tan afectados se sientan es qué tan lejos están dispuestos a llegar, pero el orden es el siguiente:
+En caso de que algún profesor les grite, los amenace, o tenga una actitud con ustedes que los haya hecho sentir pasados a llevar o violentados, hay un conducto regular medio tránsfugo. Dependiendo de la gravedad del asunto, y de qué tan afectados se sientan es qué tan lejos están dispuestos a llegar, pero el orden es el siguiente:
 1. Informar al departamento del profesor correspondiente.
 2. Dejar una “constancia” en consejería académica.
 3. Denunciar ante el mineduc.
@@ -224,7 +224,7 @@ Mantenerse informado, especialmente a través de:
 
 ### La malla antigua y la malla nueva
 
-En el 2014 comenzó a regir la nueva malla de la carrera. Todavía puede que queden un par de ~~infosaurios~~  alumnos antiguos dando vueltas, por lo que si escuchas “malla vieja” o “malla nueva”, se refiere a esto. Los principales cambios que se hicieron en ella son:
+En el 2014 comenzó a regir la nueva malla de la carrera. Todavía puede que queden un par de ~~infosaurios~~ alumnos antiguos dando vueltas, por lo que si escuchas “malla vieja” o “malla nueva”, se refiere a esto. Los principales cambios que se hicieron en ella son:
 * Duración de la carrera pasa a ser de 5 años y medio.
 * Se hace un diagnóstico de evaluación de la malla cada 2 años, de carácter obligatorio para los estudiantes de la carrera.
 * La cantidad de cursos de inglés de cada alumno se deja en función de su dominio previo al ingresar a la carrera el cual es evaluado en una prueba de diagnóstico inicial.
@@ -234,7 +234,7 @@ Cuenta la leyenda que antiguamente los infosaurios rondaban por la universidad. 
 
 Actualmente dichos personajes están en proceso de extinción, pero en honor a dichos infofósiles se extrajo de papiros antiguos la malla antigua y se modernizó en apariencia. A continuación se presentan las dos mallas:
 
-**NOTA:** Hay una [version interactiva de la malla actual][malla_info] full 1 link megaupload 100% real no fake.
+**NOTA:** Hay una [versión interactiva de la malla actual][malla_info] full 1 link megaupload 100% real no fake.
 
 
 <div class = "text-center">
@@ -255,20 +255,22 @@ Actualmente dichos personajes están en proceso de extinción, pero en honor a d
 </div>
 
 
+<!-- AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA -->
+
 ## Instalaciones y otros sitios
 **LDS**
 * Es la tierra de los informáticos, la info-cueva, la oficina del rafa y el punto de encuentro por defecto de varios alumnos de la carrera (al menos en invierno, por el aire acondicionado).
 * Cuenta con varios computadores (que no usan windows), pero la mayoría funciona a medias o se apaga repentinamente. **No es recomendable usarlos para tareas o trabajos importantes** a menos que sepas cuál funciona y cuál no.
     * Ya arreglaron esto, ahora no se apagan repentinamente. Simplemente no prenden.
         * **I n n o v a t i o n**
-* La mayoría (y en especial los alumnos nuevos) al ver computadores que no funcionan tiende a desenchufar las pantallas y los cables de red de estos computadores para usarlos en sus notebooks. **No lo hagan. Esto desconfigura la red interna y solo causa más fallas aún.** Sean responsables como los adultos que son y por favor no se excuse con el típico  *“pero si siempre fallan, qué importa”.*
+* La mayoría (y en especial los alumnos nuevos) al ver computadores que no funcionan tiende a desenchufar las pantallas y los cables de red de estos computadores para usarlos en sus notebooks. **No lo hagan. Esto desconfigura la red interna y solo causa más fallas aún.** Sean responsables como los adultos que son y por favor no se excuse con el típico *“pero si siempre fallan, qué importa”.*
 * Los primos del lab:
     * Son los administradores de los laboratorios de desarrollo de software (LDS) y de programación avanzada (LPA). **Estos laboratorios son para uso exclusivo de Informáticos.**
     * En pocas palabras, son quienes mantienen y reinan en el LDS. También manejan las cuentas de la carrera (@alumnos.inf) así que pórtense bien. Los primos se ponen bélicos de vez en cuando para los baneos.
     * Desde el 2019 CEEINF tiene un registro con los strikes de cada alumno en el LDS. Pregunta dónde puedes encontrar el documento para que ~~la penqueada~~ el baneo no te tome por sorpresa.
 * Los PC del LDS siempre serán lentos así que don’t worry (baneado (baneado al que lo baneó (baneado al que baneó al weon que banea))).
 * En los bloques libres 7-8 no habrá sillas ni internet en el LDS. Asegúrate una silla desde antes.
-* El LPA y la aula tecnológica son la misma sala, es lo que está al lado del LDS.
+* El LPA y el aula tecnológica son la misma sala, es lo que está al lado del LDS.
 * Por favor no cole a sus amigos de otras carreras (en serio, no se agilen porfa), si invita a alguien no abuse.
 * El LDS tiene sillones y una mesa en el ventanal y les voy a sacar la xuxa ~~a cachas~~ si la usan :D :D :D
     * Tenía\*: Se rompieron los sillones :NotLikeThis:
@@ -286,8 +288,8 @@ Actualmente dichos personajes están en proceso de extinción, pero en honor a d
 **Lugares de comida**
 * El Master is love, El Master is life (local externo al lado del INACAP). ~~ignorando los ratones~~
 * Para almorzar en el casino es recomendable comer en el bloque 7-8, ya que en ese horario hay muchos alumnos que se retiran a sus clases del 9-10. Si puede, úselo. De lo contrario, traten de asegurarse yendo a eso de las 12:40, para evitar la congestión que se produce con el final del bloque 5-6.
-* Hay dos quioscos kioskos quiosqos en la U: el Marley Coffee y el Diaz Sanos. Si tienes plata (compra mínima de luca doscientos si pagas con tarjeta) o estás muy apurado anda al primero, y si quieres estar comiendote un janrol tranqui sentao de pana y ver la tele puedes ir al segundo.
-* Estaba el café La Sede que era la mejor y más bella cafetería del mundo con muchos corazones pero en el 2019 se fueron RIP y ahora en el último piso se puso otra.
+* Hay dos quioscos kioskos quiosqos en la U: el Marley Coffee y el Diaz Sanos. Si tienes plata (compra mínima de luca doscientos si pagas con tarjeta) o estás muy apurado anda al primero, y si quieres estar comiéndote un janrol tranqui sentao de pana y ver la tele puedes ir al segundo.
+* Estaba el café La Sede que era la mejor y más bella cafetería del mundo con muchos corazones, pero en el 2019 se fueron RIP y ahora en el último piso se puso otra.
 
 
 **CIAC**
@@ -300,7 +302,7 @@ Actualmente dichos personajes están en proceso de extinción, pero en honor a d
 
 **NOAC**
 * Es el pasillo con ventanales debajo del CIAC (entienden? CI-AC, NO-AC...noo por favor todavia no termino la carreraaa)
-* Tiene dos ambientes (como en la disco) uno es el pasillo con microondas donde puedes comer, estudiar y jugar piola y el otro es un pasillo más estrecho con sillas altas donde puedes estudiar y jugar piola pero con menos espacio
+* Tiene dos ambientes (como en la disco) uno es el pasillo con microondas donde puedes comer, estudiar y jugar piola y el otro es un pasillo más estrecho con sillas altas donde puedes estudiar y jugar piola, pero con menos espacio
 * Antes se podían comprar snacks, hasta que la nación de los guardias atacó y ahora parece que murió :(
 
 
@@ -317,7 +319,7 @@ Actualmente dichos personajes están en proceso de extinción, pero en honor a d
 
 **Gimnasio y canchas**
 * Debajo del gimnasio hay máquinas para un verano sin polera. Tienes que ir a inscribirte para poder entrar o si el coordinador es buena onda podrás colarte. Al frente de las canchas hay barras de calistenia, lugar donde no puedes pasar sin antes quitarte la polera y hacer un pullover.
-* Para las canchas es simple: vas a la oficina de Daisy Mendieta cualquier lunes siempre que esté en su oficina fuera de horario de almuerzo y con júpiter saturno y urano alineados y pides una hora, porque no puedes hacerlo por teléfono porque quisieras que las cosas funcionaran más fácil pero no es así nemo ~~o pasas por un hoyo de la reja y juegas a la pelota a lo maldito~~.
+* Para las canchas es simple: vas a la oficina de Daisy Mendieta cualquier lunes siempre que esté en su oficina fuera de horario de almuerzo y con júpiter saturno y urano alineados y pides una hora, porque no puedes hacerlo por teléfono porque quisieras que las cosas funcionaran más fácil, pero no es así nemo ~~o pasas por un hoyo de la reja y juegas a la pelota a lo maldito~~.
 * Si quieres jugar voleibol playa, puedes pedir un balón en la ventanilla del gimnasio a uno de los auxiliares.
 * Los camarines están o repletos o completamente vacíos, según si estás en horario de clases de EFI o algún deportivo, depende de tu team ver esto. Cuida las duchas, ya que muchos somos como Tom Hanks en El Terminal y usamos la U como casa, comedor y baño y sin una ducha disponible la U quedará como sala de séptimo básico.
 * Si están en clases, taller o deportivo de voleibol, NO PASES POR LA CANCHA, o el profe Bugueño te dará un sermón a ti y a los pobres e inocentes alumnos.
@@ -332,13 +334,13 @@ Actualmente dichos personajes están en proceso de extinción, pero en honor a d
 
 
 **Sala Pasta**
-* Entre las salas A y la cancha de Calistenia se encuentra la sala pasta, maravilloso lugar destinado exclusivamente a dormir, comer, jugar y jugar de nuevo :D afuera hay taca-taca y una máquina de arcade donde tu mami no va a estar hinchándote con el pantalones.
+* Entre las salas A y la cancha de Calistenia se encuentra la sala pasta, maravilloso lugar destinado exclusivamente a dormir, comer, jugar y jugar de nuevo :D afuera hay taca-taca y una máquina de arcade donde tu mami no va a estar hinchándote con el pantalón.
 * A veces, adentro hay un cabro que presta juegos de mesa ^^
 
 
 **FabLab**
 * Detrás de la sala pasta está el FabLab, un laboratorio abierto a cualquier estudiante que quiera imprimir cosas en 3D con filamento plástico, usar la maquinaria para cortar madera, entre otras cosas.
-* Para manipular la máquina debes pedirle ayuda a los ayudantes, pero si quieres hacerlo por tí mismo puedes solicitar la capacitación express para hacer tu propio amiibo sin morir en el intento.
+* Para manipular la máquina debes pedirle ayuda a los ayudantes, pero si quieres hacerlo por ti mismo puedes solicitar la capacitación express para hacer tu propio amiibo sin morir en el intento.
 
 
 **Primos**
@@ -375,10 +377,10 @@ Actualmente dichos personajes están en proceso de extinción, pero en honor a d
 
 
 **Sansanito**
-* Por el costado de El Pinar, al frente del Quiosco Díaz Sanos, está el Sansanito. Clínica N#1 de latinoamérica y especializada en agüitas de yerba y parches curita.
-* Si te lesionaste jugando a la pelota o en un deportivo, puedes ir y te corre el seguro escolar, pudiendo atenderte en el Barros Luco (no el sandwich, ni el ex-presidente, el hospital).
-* A un amigo le dió una contractura muscular por jugar a la pelota con el cuerpo helado. Le inyectaron un relajante por Detroit. Calentar no es un juego. Winners don’t use drugs.
-* También ofrecen atención dental y psicológica, aunque de este último se satura muy rápidamente. Si necesitas hora (o sesiones mensuales) tienes que ir lo antes posible (en Abril ya está todo reservado) (paro por salud mental 2019).
+* Por el costado de El Pinar, al frente del Quiosco Díaz Sanos, está el Sansanito. Clínica N#1 de Latinoamérica y especializada en agüitas de yerba y parches curita.
+* Si te lesionaste jugando a la pelota o en un deportivo, puedes ir y te corre el seguro escolar, pudiendo atenderte en el Barros Luco (no el sandwich, ni el expresidente, el hospital).
+* A un amigo le dio una contractura muscular por jugar a la pelota con el cuerpo helado. Le inyectaron un relajante por Detroit. Calentar no es un juego. Winners don’t use drugs.
+* También ofrecen atención dental y psicológica, aunque de este último se satura muy rápidamente. Si necesitas hora (o sesiones mensuales) tienes que ir lo antes posible (en abril ya está todo reservado) (paro por salud mental 2019).
 
 
 **SIGA**
@@ -419,6 +421,5 @@ Actualmente dichos personajes están en proceso de extinción, pero en honor a d
 [c3]: mailto:gladys.rodriguez@usm.cl
 [c4]: mailto:claudia.carvajal@usm.cl
 
-<!-- CAMBIAR LINNK BD -->
 
 {% include links.html %}

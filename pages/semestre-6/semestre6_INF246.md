@@ -3,15 +3,12 @@ title: Sistemas‌ ‌Operativos‌ [SO]
 keywords: Infraestructura TIC, documentation theme, jekyll, technical writers, help authoring tools, hat replacements
 last_updated: July 3, 2016
 tags:
-summary: "El estudiante adquiere conceptos y principios de los sistemas operativos, su diseño y construcción.
-Desarrolla habilidades para programar aplicaciones basándose en los servicios que provee el sistema
-operativo a nivel de llamadas al sistema.‌"
+summary: "El estudiante adquiere conceptos y principios de los sistemas operativos, su diseño y construcción. Desarrolla habilidades para programar aplicaciones basándose en los servicios que provee el sistema operativo a nivel de llamadas al sistema.‌"
 sidebar: main_sidebar
 permalink: semestre6_INF246.html
 folder: semestre-6
 ---
 
-[agregar‌ ‌descripción‌ ‌general‌ ‌o‌ ‌intro‌ ‌ingeniosa]‌ ‌
 
 ## Información‌ ‌general:‌ ‌
 
@@ -20,7 +17,6 @@ folder: semestre-6
 - Créditos‌ ‌USM‌ ‌:‌ ‌ 3
 - Créditos SCT: 5
 - Prerrequisitos:‌ ‌Arqui.‌ ‌
-- Sitio‌ ‌oficial:‌ ‌ ‌
 
 ## Contenidos:‌ ‌
 
@@ -34,17 +30,19 @@ folder: semestre-6
 
 ## Comentarios‌ ‌de‌ ‌los‌ ‌alumnos:‌ ‌
 
-- CAPAS!!‌ ‌CAPAS!!‌ ‌Las‌ ‌cebollas‌ ‌tienen‌ ‌capas,‌ ‌los‌ ‌ogros‌ ‌también‌ ‌y‌ ‌los‌ ‌SOs‌ ‌
-- Dinosaurios,‌ ‌Dinosaurios‌ ‌EVERYWHERE‌ ‌
-- Si‌ ‌no‌ ‌lo‌ ‌tomaste‌ ‌con‌ ‌Libedinsky‌ ‌(Certámenes‌ ‌de‌ ‌colegio),‌ ‌estudia.‌ ‌
+- CAPAS!!‌ ‌CAPAS!!‌ ‌Las‌ ‌cebollas‌ ‌tienen‌ ‌capas, los‌ ‌ogros‌ ‌también‌ ‌y‌ ‌los‌ ‌SOs‌ ‌
+- Dinosaurios, Dinosaurios‌ ‌EVERYWHERE‌ ‌
+- Si‌ ‌no‌ ‌lo‌ ‌tomaste‌ ‌con‌ ‌Libedinsky‌ ‌(Certámenes‌ ‌de‌ ‌colegio), estudia.‌ ‌
 - Al‌ ‌ayudante‌ ‌le‌ ‌gusta‌ ‌su‌ ‌café‌ ‌con‌ ‌endulzante‌ ‌(muy‌ ‌importante)‌ ‌
 - Otra‌ ‌parte‌ ‌de‌ ‌ARI‌ ‌se‌ ‌vino‌ ‌para‌ ‌acá.‌ ‌Junten‌ ‌café.‌ ‌A‌ ‌menos‌ ‌que‌ ‌el‌ ‌profe‌ ‌sea‌ ‌Viktor.‌ ‌
 - Si‌ ‌no‌ ‌van‌ ‌con‌ ‌ropa‌ ‌Lacoste‌ ‌se‌ ‌echan‌ ‌el‌ ‌ramo‌ ‌(Viktor)‌ ‌
 - DEPENDE‌ ‌
-- Si‌ ‌lo‌ ‌dan‌ ‌con‌ ‌Vitoko,‌ ‌el‌ ‌ramo‌ ‌tiene‌ ‌memes‌ ‌
+- Si‌ ‌lo‌ ‌dan‌ ‌con‌ ‌Vitoko, el‌ ‌ramo‌ ‌tiene‌ ‌memes‌ ‌
 - Vitoko‌ ‌te‌ ‌enseña‌ ‌lo‌ ‌que‌ ‌no‌ ‌aprendiste‌ ‌en‌ ‌Arqui‌ ‌ ‌
   ‌
   ‌
 <div class="text-center mb-3">
     <img src="images/semestre-6/so1.png" alt="collapse" height="auto">
 </div>
+
+{% include links.html %}

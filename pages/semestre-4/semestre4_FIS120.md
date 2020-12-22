@@ -1,10 +1,8 @@
 ---
 title: F̴̬͓͊í̷͇̉s̵̬͉̒̉i̵̧̛̫̓c̸̥̙͋̈́ǎ̷͓̕ ̴͙͚͑1̷̖̝̌̓2̴͔̉̅0̸̺͌̀
 keywords: fis, fisicaII
-last_updated: October 23, 2020
-summary: "En esta asignatura se estudian los principios del electromagnetismo clásico a nivel básico con
-aplicaciones relevantes a la Ingeniería. El estudiante profundiza habilidades para aplicar las leyes
-físicas, resolver problemas y realizar experimentos en este nivel. "
+last_updated: December 22, 2020
+summary: "En esta asignatura se estudian los principios del electromagnetismo clásico a nivel básico con aplicaciones relevantes a la Ingeniería. El estudiante profundiza habilidades para aplicar las leyes físicas, resolver problemas y realizar experimentos en este nivel. "
 sidebar: main_sidebar
 permalink: semestre4_FIS120.html
 folder: semestre-4
@@ -37,7 +35,7 @@ folder: semestre-4
 * Al momento de inscribir el tamo, pierdes 1 botón de pánico automáticamente.
 * Patearlo hasta el infinito como el penal de pinilla (No es buena idea, después pesa más :c)
 * Agregado extra: malla nueva debe pasar hasta 140 para tomar los electivos informáticos :( (no patear hasta el final de los días)
-* ESCRIBAN! Cualquier wea pero escriban, se ganan puntitos que definirán su promedio final.
+* ESCRIBAN! Cualquier wea, pero escriban. Se ganan puntitos que definirán su promedio final.
 * Atentos a las paltas, siempre hay por ahí.
 * [César Izquierdo][1] es mi pastor, nada me faltará (no es magia, es zienzia)
 * Las clases de [Walter Lewin][2] son best.

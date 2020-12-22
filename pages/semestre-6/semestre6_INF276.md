@@ -1,26 +1,23 @@
 ---
-title: Ingeniería,‌ ‌Informática‌ ‌y‌ ‌Sociedad‌ ‌[InfoSoc]‌ ‌
+title: Ingeniería, Informática‌ ‌y‌ ‌Sociedad‌ ‌[InfoSoc]‌ ‌
 keywords: Transversal e Integración, documentation theme, jekyll, technical writers, help authoring tools, hat replacements
 last_updated: July 3, 2016
 tags: 
 summary: "El desarrollo de esta asignatura busca promover en los estudiantes el análisis y reflexión sobre su
-futuro rol profesional, y las responsabilidades sociales de los ingenieros. En este contexto, se
-abordan temas en el ámbito de los sistemas sociales y los impactos de la actividad científica y
-tecnológica en las personas y en la sociedad, a través de metodologías de enseñanza y aprendizaje
-que incluyen espacios de discusión y trabajo colaborativo.‌"
+futuro rol profesional, y las responsabilidades sociales de los ingenieros. En este contexto, se abordan temas en el ámbito de los sistemas sociales y los impactos de la actividad científica y tecnológica en las personas y en la sociedad, a través de metodologías de enseñanza y aprendizaje que incluyen espacios de discusión y trabajo colaborativo.‌"
 sidebar: main_sidebar
 permalink: semestre6_INF276.html
 folder: semestre-6
 ---
 
+
 ## Información‌ ‌general:‌ ‌
 
 - Sigla:‌ ‌INF-276‌ ‌
-- Nivel‌ ‌de‌ ‌dificultad‌ ‌según‌ ‌estudiantes:‌ ‌x/10‌ ‌{x=6‌ ‌si‌ ‌lo‌ ‌haces‌ ‌en‌ ‌serio,‌ ‌x=2‌ ‌si‌ ‌mientes}‌ ‌
+- Nivel‌ ‌de‌ ‌dificultad‌ ‌según‌ ‌estudiantes:‌ ‌x/10‌ ‌{x=6‌ ‌si‌ ‌lo‌ ‌haces‌ ‌en‌ ‌serio, x=2‌ ‌si‌ ‌mientes}‌ ‌
 - Créditos‌ ‌USM‌ ‌:‌ ‌ ‌3
 - Créditos SCT: 5
 - Prerrequisitos:‌ ‌OrgSisInf.‌ ‌
-- Sitio‌ ‌oficial:‌ ‌ ‌
 
 ## Contenidos:‌ ‌
 
@@ -48,3 +45,4 @@ Codocedo‌ ‌es‌ ‌bakan‌ ‌:3‌ ‌
 - Ola‌ ‌nosotro‌ ‌somosel‌ ‌eqipo‌ ‌3‌
 - Cuidado con el plagio, cuaquier cosa que hagas es plagio
 
+{% include links.html %}
