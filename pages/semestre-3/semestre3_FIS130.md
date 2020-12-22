@@ -1,8 +1,7 @@
 ---
 title: Física General 3 [FIS-130]
 keywords: fis130, fisica3, fis3
-last_updated: August 30, 2020
-tags: [getting_started]
+last_updated: Dec 22, 2020
 summary: "En esta asignatura se estudian los principios de la física de los medios continuos a nivel básico.
 El estudiante profundiza las habilidades para aplicar leyes físicas, resolver problemas y realizar
 experimentos en este nivel."
@@ -44,7 +43,7 @@ folder: semestre-3
 - RE-SOR-TES. Un bloque de hielo flotando en agua? Métale resorte. Una tubería a la que hay que calcularle el flujo máximo de agua? Hagámosla oscilar con un resorte para variar su presión. Un bloque de metal dilatándose por calor? SOPRESA, EL BLOQUE ES UN RESORTE.
 - Y no se limita a 130. **A todos los ejercicios se les puede poner un resorte... en cualquier parte y en cualquier física**.
 - Hay preguntas de resortes en todos los certámenes. Fluidos?? Un tanque de agua sumergiéndose con 2 resortes en el fondo para que oscile :D. Termodinámica? Aire que se calienta y comprime un resorte :D. Global?!!?? Fluido que es perturbado por calor y hace oscilar un resorte en el sistema :DDDD.
-- Continuando con lo de arriba, no olvides mencionar un resorte que empuja a otro resorte o 2 resortes, uno en cada extremo :D, a lo que se le puede sumar todas la variantes mencionadas anteriormente.
+- Continuando con lo de arriba, no olvides mencionar un resorte que empuja a otro resorte o 2 resortes, uno en cada extremo :D, a lo que se le puede sumar todas las variantes mencionadas anteriormente.
 - **RESORTES NUNCA TERMINA. 120 ha usado resortes y roce en enunciados de objetos con carga. Asegúrese de aprenderlo bien ahora ctm**.
 - Pinto te puede mandar a examen por no entregar una tarea, de hecho, por no responder el cuestionario online para que pinto no se diera la paja de revisar la tarea.
 - Te puedes ir a global por el proyecto. OJO AHÍ.

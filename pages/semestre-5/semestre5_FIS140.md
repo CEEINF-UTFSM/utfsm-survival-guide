@@ -1,15 +1,14 @@
 ---
 title: Fisica 140
 keywords: fisica, fisica 4, relatividad
-last_updated: July 3, 2016
-tags: [getting_started]
+last_updated: Dec 22, 2020
 summary: En esta asignatura se estudia los principios de la física relacionados con la propagación de ondas electromagnéticas, la teoría de la relatividad especial o restringida, la física estadística y la física cuántica, a nivel básico con aplicaciones relevantes a la ingeniería. El estudiante profundiza las habilidades de aplicar las leyes físicas, resolver problemas y realizar experimentos a este nivel. 
 sidebar: main_sidebar
 permalink: semestre5_FIS140.html
 folder: semestre-5
 ---
 
-## Informacion General
+## Información General
 * Sigla: FIS140
 * Nivel de dificultad según estudiantes: 5/10
 * Créditos USM: 4

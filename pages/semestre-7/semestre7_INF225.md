@@ -1,7 +1,7 @@
 ---
 title: Ingeniería de Software [ISW](pre-Feria)
-keywords: infenieria, software, feria, isw, HAR
-last_updated: August 24, 2020
+keywords: ingenieria, software, feria, isw, HAR
+last_updated: Dec 22, 2020
 summary: "El estudiante adquiere estrategias para la construcción sistemática, eficaz y eficiente de sistemas de software eficaces y eficientes. El estudiante desarrolla la habilidad de utilizar técnicas de ingeniería y de gestión para todas las disciplinas de la producción de software, llevando a cabo el desarrollo parcial en equipo de una aplicación específica."
 sidebar: main_sidebar
 permalink: semestre7_INF225.html
@@ -50,7 +50,7 @@ evolución y transición; ALM (Application-Lifecycle Management).
 * Las instrucciones para informes y presentables llegan dos días antes de la entrega (puede que 1 dia antes)
 * **HAR HAR HAR HAR HAR HAR HAR HAR**
 * HAR hace pataletas en forma de no entregar notas, mientras más le pidan las notas, más se va a demorar.
-* Hablando 100% en serio, HAR explica bien y se le entiende. Todos sus problemas son sólamente de coordinación.
+* Hablando 100% en serio, HAR explica bien y se le entiende. Todos sus problemas son solamente de coordinación.
 * <span style = "font-size:16pt">**HAR HAR HAR HAR HAR HAR HAR HAR HAR HAR HAR HAR**</span>
 * *"Mandar a hacer un gran proyecto, no es más riesgoso que mandar a un hijo a la UTFSM".*
 

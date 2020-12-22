@@ -1,11 +1,10 @@
 ---
 title: Estructuras de Datos [EDD]
 keywords: edd, EDD
-last_updated: August 30, 2020
-tags: [getting_started]
+last_updated: Dec 22, 2020
 summary: "Esta asignatura forma parte del plan de estudios de la carrera Ingeniería Civil Informática en la
 Línea de Programación Avanzada, conducente a la Licenciatura en Ciencias de la Ingeniería
-Informática. El propósito de ésta asignatura es, que el estudiante conozca y aplique las
+Informática. El propósito de esta asignatura es, que el estudiante conozca y aplique las
 estructuras de datos básicas y reconozca cuándo usarlas en diferentes escenarios de su
 quehacer. Esto incluye el diseño, análisis, evaluación y programación de estructuras de datos
 usando la metodología de tipos de datos abstractos."
@@ -59,11 +58,11 @@ folder: semestre-3
   
 - Dentro de los apodos del profe hasta la fecha se encuentran:
   - Huachalomo, Arroshuelo, Luis Miguel, Arrollado, Bizcochuelo, Mark Zuckerberg en la pasta, Polluelo, Holluelo (el chico maravilla), Argentino, Turbolepe, Sonrisa pepsodent, ArroyuelOS, Riachuelo.
-- Si preguntas algo en clases: "si si, si, si si, sisi, ya, sisi, bueno {*explicacion*}".
+- Si preguntas algo en clases: "si si, si, si si, sisi, ya, sisi, bueno {*explicación*}".
 - Si preguntas si puedes hacer algo en un certámen: "si, si, ya no siga, hágalo, hágalo que puede darle la respuesta a otro" (no pudiste terminar de decir lo que querías hacer).
 - Valgrind.
 - Para el C3 se puede aprobar viendo pautas de certámenes anteriores (son los mismos ejercicios, pero piden otra cosa).
-- Maldita regla de notas de certámen.
+- Maldita regla de notas de certamen.
 
 <div class='text-center mb-3'>
     <img src="images/semestre-3/edd-meme2.jpg" alt="collapse" height="auto">

@@ -1,15 +1,14 @@
 ---
-title: Organizaciones y Sistemas de Informacion [OSI, ORGSIS, SISORG]
-keywords: Organizacion y sistemas de organizacion
-last_updated: July 3, 2016
-tags: [getting_started]
+title: Organizaciones y Sistemas de Información [OSI, ORGSIS, SISORG]
+keywords: Organizacion y sistemas de informacion, organización y sistemas de información
+last_updated: Dec 22, 2020
 summary: El estudiante comprende los principios, procedimientos, técnicas y herramientas de la informática, aplicándolos a la gestión contextualizada de las organizaciones. El estudiante evalúa de forma crítica las diversas alternativas de sistemas de información, considerando su alineación al contexto y los objetivos estratégicos de una organización.
 sidebar: main_sidebar
 permalink: semestre5_INF270.html
 folder: semestre-5
 ---
 
-## Informacion General
+## Información General
 * Sigla: INF270
 * Nivel de dificultad según estudiantes: no c o si c pero no wa decir
 * Créditos USM: 3
@@ -49,8 +48,8 @@ folder: semestre-5
 * En caso de aún creer que es como un mal plagio de feria favor reportar a la FIFA.
 * Ramo que te hace trabajar de verdad y tiene trabajitos y pruebas, ~~al final de semestre hay comida~~
 * Tía Claudia \<3
-* Ese ramo aparece con 3 créditos, debería tener más (__2__ entregables en equipo, __3__ casos individuales, 2 certamenes, __clases con asistencia__).
-* __Los entregables y los casos siempre llegan en el peor momento posible.
+* Ese ramo aparece con 3 créditos, debería tener más (__2__ entregables en equipo, __3__ casos individuales, __2__ certámenes, __clases con asistencia__).
+* __Los entregables y los casos siempre llegan en el peor momento posible.__
 * ___Siempre se pueden aplazar los casos y entregas. Aplíquenle al +1 en moodle___
 
 

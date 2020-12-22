@@ -1,15 +1,14 @@
 ---
 title: Arquitectura y Organizacion de Computadores [ARQUI]
 keywords: Arqui, arquitectura
-last_updated: July 3, 2016
-tags: [getting_started]
+last_updated: Dec 22, 2020
 summary: La asignatura entrega los conceptos fundamentales que permiten comprender la organización de los computadores modernos y acercarse a una disciplina que está en constante cambio y que es básica para crear sistemas de software eficientes. Además, muestra la interdependencia entre los programas computacionales y la arquitectura de hardware que lo sustenta.
 sidebar: main_sidebar
 permalink: semestre5_INF245.html
 folder: semestre-5
 ---
 
-## Informacion General
+## Información General
 * Sigla: INF245
 * Nivel de dificultad según estudiantes: 6/10
 * Créditos USM: 3
@@ -48,7 +47,7 @@ folder: semestre-5
 * Nunca olvides que es una ALU.
 * Si les dice que entra el Capítulo 3, en el certamen estudia el 5 porque preg333333333333333333333333333333333untará el 7.
 * El profe se pone rencoroso porque va el 10% a clases.
-* "A la pizarra" -  El profe cada vez qye alguien pregunta algo.
+* "A la pizarra" -  El profe cada vez que alguien pregunta algo.
 * Preguntar algo, te deja 50 min parado frente a la pizarra.
 * HERMANO haciendo las tareas se entiende todo :)
 * Decir "Ordenador" -> Insta cero
@@ -57,7 +56,7 @@ folder: semestre-5
     * NO ESTUDIEN LAS PPTS MIERDA, SON PÉSIMAS! Úsenlas de referencia y lean el libro, tiene los mismos ejemplos y todo. Y explicados.
 * __MERCY IS FOR THE WEAK__
 * "Eeeeeeh... Aaaaaaahmmmmmm..." -Solar, el 90% de las veces que habla.
-* Destacar que el materiald el curso (texto guía y ppts) están en inglés
+* Destacar que el material del curso (texto guía y ppts) están en inglés
 
 <img src="images/semestre-5/puestas_logicas.jpg" alt="collapse" height="auto">
 

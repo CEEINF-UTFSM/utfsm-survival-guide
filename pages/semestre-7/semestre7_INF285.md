@@ -1,8 +1,8 @@
 ---
 title: Computación Científica [CC](Ex CC1+CC2)
 keywords: computación, cientifica, splines
-last_updated: August 26, 2020
-summary: "Analizar métodos computacionales de la matemática aplicada y los utilizarlos para resolver problemas atingentes a la ingeniería. Desarrollar habilidades de significativa importancia tales como: análisis, síntesis, resolución computacional de problemas y evaluación crítica de los resultados computacionales."
+last_updated: Dec 22, 2020
+summary: "Analizar métodos computacionales de la matemática aplicada y utilizarlos para resolver problemas atingentes a la ingeniería. Desarrollar habilidades de significativa importancia tales como: análisis, síntesis, resolución computacional de problemas y evaluación crítica de los resultados computacionales."
 sidebar: main_sidebar
 permalink: semestre7_INF285.html
 folder: semestre-7
@@ -17,13 +17,13 @@ folder: semestre-7
 * Créditos USM: 3.
 * Créditos SCT: 5.
 * Prerrequisitos: MAT-024, INF-221.
-* Eje formativo:  Ciencias de la Ingeniería - Informática para problemas complejos en la industria.
+* Eje formativo: Ciencias de la Ingeniería - Informática para problemas complejos en la industria.
 * Semestre en que se dicta: Impar.
 
 
 ## Contenidos
 
-* Revisión de algebra lineal.
+* Revisión de álgebra lineal.
 * Estándar de punto flotante.
 * Precisión, condicionamiento y estabilidad.
 * Búsqueda de ceros en ecuaciones no lineales en 1D.

@@ -1,15 +1,14 @@
 ---
-title: Estadistica Computacional [ESTACA]
-keywords: Estadistica computacional, estadistica
-last_updated: July 3, 2016
-tags: [getting_started]
+title: Estadística Computacional [ESTACA]
+keywords: Estadistica computacional, estadistica, estadística computacional, estadística
+last_updated: Dec 22, 2020
 summary: El estudiante inicia el desarrollo de habilidades de análisis, interpretación y modelado de datos, aplicando métodos básicos de recolección, síntesis y descripción de grupos de datos, y los conceptos de variación e incerteza. Selecciona métodos de análisis basados en simulaciones computacionales o aproximaciones clásicas. Interpreta y comunica los resultados obtenidos del problema que dio origen al estudio.
 sidebar: main_sidebar
 permalink: semestre5_INF280.html
 folder: semestre-5
 ---
 
-## Informacion General
+## Información General
 * Sigla: INF280
 * Nivel de dificultad según estudiantes: 7/10
 * Créditos USM: 3
@@ -68,9 +67,9 @@ __OH BOI__
 * No. Que el profe haga gestos raros no lo hace gay. (shhh)
 * Si no aprendieron LáTeX antes ahora aprenderá LáTeX a la fuerza.
 * R is Love, R is Life.
-* Las re-correcciones pueden salvar el ramo pero no es seguro que estén.
+* Las re-correcciones pueden salvar el ramo, pero no es seguro que estén.
 * _"Atte. R"_
-* El profe es fabuloso y explica super bien \<3 (Premio al profesor más fabuloso del departamento).
+* El profe es fabuloso y explica súper bien \<3 (Premio al profesor más fabuloso del departamento).
 * Nyanculef
 * Siempre tengan las tablas a mano. Y el formulario, Y mi arco. Y mi hacha. Y mi espada.
 * Antes se inflaban las notas con una distribución normal, pero ahora al parecer no.
