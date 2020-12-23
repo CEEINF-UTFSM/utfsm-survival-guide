@@ -1,5 +1,5 @@
 ---
-title: Arquitectura y Organizacion de Computadores [ARQUI]
+title: Arquitectura y Organización de Computadores [ARQUI]
 keywords: Arqui, arquitectura
 last_updated: Dec 22, 2020
 summary: La asignatura entrega los conceptos fundamentales que permiten comprender la organización de los computadores modernos y acercarse a una disciplina que está en constante cambio y que es básica para crear sistemas de software eficientes. Además, muestra la interdependencia entre los programas computacionales y la arquitectura de hardware que lo sustenta.
