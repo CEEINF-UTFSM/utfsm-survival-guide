@@ -1,9 +1,9 @@
 ---
 title: Matemática II
 keywords: documentation theme, jekyll, technical writers, help authoring tools, hat replacements
-last_updated: July 3, 2016
+last_updated: December 22, 2020
 tags:
-summary: "Sigue estudiando, no importa si te fue bien o mal, aqui solo la wea va de mal en peor. Los que se confían reprueban creyendo que les irá bien igual."
+summary: "Sigue estudiando, no importa si te fue bien o mal, aquí solo la wea va de mal en peor. Los que se confían reprueban creyendo que les irá bien igual."
 sidebar: main_sidebar
 permalink: semestre2_MAT022.html
 folder: semestre-2
@@ -36,7 +36,7 @@ folder: semestre-2
 
 * STEIN, S., BARCELLOS, A. “Cálculo y Geometría Analítica”, Editorial MC Graw-Hill 1995. 
 * E. KREYSZIG. “Matemáticas avanzadas para ingeniería. Volumen I y II”, Editorial Limusa, 1994. 
-* STEWART, J.   “CALCULO”, Grupo Editorial Iberoamerica,  1994.
+* STEWART, J. “CÁLCULO”, Grupo Editorial Iberoamerica, 1994.
 
 ## Comentarios 
 
@@ -53,7 +53,7 @@ folder: semestre-2
 * Si tu profe de complemento se parece al coca mendoza, cagaste.
 * www.symbolab.com == aprender a integrar
 * Cónicas rotadas? Eso se pregunta? Sí. 2016-2
-* **Aprendan bien matries, las necesitarán si pasan a mate 3 y a otros ramos informáticos (CC)**.
+* **Aprendan bien matrices, las necesitarán si pasan a mate 3 y a otros ramos informáticos (CC)**.
 * https://www.calculadora-de-integrales.com/
 * 2018-1 Control 1: Integral de raíz de tangente.
 <img src="images/semestre-2/cuadratica.jpg" alt="collapse" height="auto">

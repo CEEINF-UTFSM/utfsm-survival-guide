@@ -1,8 +1,8 @@
 ---
-title: ECONOMIA I-A [ECONO]
+title: ECONOMÍA I-A [ECONO]
 keywords: econo, industrias
-last_updated: August 18, 2020
-summary: "El alumno será capaz de comprender el funcionamiento del mercado en equilibrio parcial, con énfasis en las condiciones de competencia perfecta y en menor medida bajo condiciones de competencia imperfecta y comprender   y   analizar   el   funcionamiento   de   la   economía   a   nivel   agregado,   a   través   del comportamiento de sus principales variables: producto, nivel de precios, empleo, cuentas externas, tasas de interés y tipo de cambio."
+last_updated: December 22, 2020
+summary: "El alumno será capaz de comprender el funcionamiento del mercado en equilibrio parcial, con énfasis en las condiciones de competencia perfecta y en menor medida bajo condiciones de competencia imperfecta y comprender y analizar el funcionamiento de la economía a nivel agregado, a través del comportamiento de sus principales variables: producto, nivel de precios, empleo, cuentas externas, tasas de interés y tipo de cambio."
 sidebar: main_sidebar
 permalink: semestre4_IWN170.html
 folder: semestre-4
@@ -29,27 +29,17 @@ folder: semestre-4
 * Ámbito de estudio de la macroeconomía.
 * Medición del PIB; PIB versus bienestar.
 * Oferta agregada: enfoques clásico y keynesiano.
-* Demanda agregada: consumo, invedrsión, sector gobierno, balanza comercial.
-* Introducción a la ecnonomía monetaria: demadna y ofertad e dinero, regímenes cambiarios.
+* Demanda agregada: consumo, inversión, sector gobierno, balanza comercial.
+* Introducción a la economía monetaria: demanda y oferta de dinero, regímenes cambiarios.
 * Modelos de equilibrio general en economía cerrada y abierta; evaluación de políticas macroeconómicas.
-
-
-<!--
-## Consejos
-
-*
-*
-*
-*
--->
 
 
 ## Comentarios de alumnos
 
 * Se deja como supuesto que el ramo es fácil
-* Evitar a toda costa tomar el ramo co Alejando Sierras
+* Evitar a toda costa tomar el ramo con Alejando Sierras
 * Toma con Rodrigo Farias, carrea solo
-* Farias es entero tela y explica cómo y por qué en chila nos meten el pico en el ojo (corrupción, colusión, etc) (moraleja: hay que ir a votar).
+* Farias es entero tela y explica cómo y por qué en chile nos meten el pico en el ojo (corrupción, colusión, etc.) (moraleja: hay que ir a votar).
 * **20 minutos después de comenzar la clase** "Chicos lo siento el superintendente me llamo y dice que debo ir para allá ahora" - Farias (2019-1)
 
 <div class="text-center mb-3">

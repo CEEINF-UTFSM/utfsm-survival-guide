@@ -1,14 +1,12 @@
 ---
 title: Links de Interés
-keywords: 
 last_updated: August 29, 2020
-summary: ""
 sidebar: main_sidebar
 permalink: links.html
 folder: universidad
 ---
 
-**Esta sección contiene una breve recopilicación de información de utilidad. Si falto algo por favor notificar. Más información y links:**
+**Esta sección contiene una breve recopiliación de información de utilidad. Si faltó algo por favor notificar. Más información y links:**
 
 | Contacto Secretarias | sec-pregrado-cs@inf.utfsm.cl|
 | SIGA (Sistema de información de gestión académica) | [https://siga.usm.cl][siga] |

@@ -1,7 +1,7 @@
 ---
 title: Informática Teórica [TALF]
 keywords: 
-last_updated: August 18, 2020
+last_updated: December 22, 2020
 summary: "Comic Sans 101"
 sidebar: main_sidebar
 permalink: semestre4_INF155.html
@@ -16,14 +16,14 @@ folder: semestre-4
 * Créditos USM: 3
 * Créditos SCT: 5
 * Prerrequisitos: Estructuras de Datos y Estructuras Discretas.
-* Eje formativo:  Ciencias de la Ingeniería -Informática para problemas complejos en la Industria
+* Eje formativo: Ciencias de la Ingeniería -Informática para problemas complejos en la Industria
 * Semestre en que se dicta: Ambos
 
 ## Contenidos
 
 * Lenguajes regulares
 * Lenguajes de libre contexto
-* Maquinas de turing
+* Máquinas de Turing
 
 
 ## Consejos
@@ -52,9 +52,9 @@ folder: semestre-4
 * Profe pascuero <3
 * Paleta de colores de los plumones diferentes en cada festividad
 * Hagan las tareas ANTES del certamen, el certamen es una versión más larga de ellas pero iguales.
-* Si es turing completo, entonces se puede instalar en Linux :D
-* A moreira le gusta The Big Bang Theory (es divertido cuando lo llaman en clases).
-* El ramo se puede pasar leyendo las ppt. Pero ir a clases de moreira es una bendición.
+* Si es Turing completo, entonces se puede instalar en Linux :D
+* A Moreira le gusta The Big Bang Theory (es divertido cuando lo llaman en clases).
+* El ramo se puede pasar leyendo las ppt. Pero ir a clases de Moreira es una bendición.
 
 [1]: https://www.com
 

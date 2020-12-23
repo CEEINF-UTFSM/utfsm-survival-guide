@@ -1,12 +1,11 @@
 ---
 title: Teoría de Sistemas
 keywords: comunismo, teosis
-last_updated: August 30, 2020
-tags: [getting_started]
+last_updated: Dec 22, 2020
 summary: "Esta asignatura forma parte del plan de estudios de Ingeniería Civil Informática conducente a la
-Licenciatura en Ciencias de la Ingeniería. El propósito de ésta es que los estudiantes aprendan
+Licenciatura en Ciencias de la Ingeniería. El propósito de esta es que los estudiantes aprendan
 conceptos y propiedades de aquello que se percibe de sistema y conozcan las técnicas para su
-análisis, comprensión y representación. "
+análisis, comprensión y representación."
 sidebar: main_sidebar
 permalink: semestre3_TEOSIS.html
 folder: semestre-3
@@ -20,7 +19,7 @@ Humanista disfrazado de ramo informático.
 - Nivel de dificultad: 1/10.
 - Créditos USM: 3.
 - Créditos SCT: 5.
-- Eje formativo:  Ciencias de la Ingeniería - Sistemas y Gestión.
+- Eje formativo: Ciencias de la Ingeniería - Sistemas y Gestión.
 - Semestre en que se dicta: Impar.
 - Prerrequisitos: IWG-101.
 
@@ -48,7 +47,7 @@ Humanista disfrazado de ramo informático.
 - Facho pobre xd.
 
 - Buena idea tomarlo en la mañana, te asegura una profundas 3 horas de sueño.
-- Yo soy un comunista a la antigua, no como la Vallejo, que no son comunistas de verdad. - ric luego de que la Vallejo  pasó a ser de parte del Gobierno.
+- Yo soy un comunista a la antigua, no como la Vallejo, que no son comunistas de verdad. - ric luego de que la Vallejo pasó a ser de parte del Gobierno.
 - Totalidad por los bordes.
 - Cuando se creó el universo estaban Maradona, Dios y el profe dictándoles el ramo (la divina trinidad, pregunta de certamen 2).
 - Este es una década divina 2016 2+1+6+1 = 10 MARADONA.
@@ -56,7 +55,7 @@ Humanista disfrazado de ramo informático.
 - Un vagabundo una vez durmió con el profe.
 - "vayan a la marcha cabros, yo si iré en Valparaíso"
 - Si sienten que el profe está joteando a sus alumnas es normal. Sigan sintiéndolo porque es lo que está haciendo.
-- Si quieres desatar el infierno preguntale al profe por festivales latinoamericanos.
+- Si quieres desatar el infierno pregúntale al profe por festivales latinoamericanos.
   
   - Jebus es todo un loquillo.
 - Zorbamelgriego.
@@ -74,7 +73,7 @@ Humanista disfrazado de ramo informático.
 - "Si tomo un celular y se lo tiro a usted ya no es un teléfono, es un proyectil"
 - Si te encuentras con una minita cuando vayas camino a clases, manda a la mierda las clases, síguela y cométela. Sólo se vive una vez (pero debes sacarte foto con ella para justificar).
 - En moodle, el ayudante es el profe. De hecho él maneja el ramo, ric es solo de decoración.
-- Los compilados de preguntas te hacen aprobar los certámenes (aumenta la cantidad de puntos si los lees justo antes del certámen y le agregas de tu propia cosecha)
+- Los compilados de preguntas te hacen aprobar los certámenes (aumenta la cantidad de puntos si los lees justo antes del certamen y le agregas de tu propia cosecha)
 - Evita mirar sus pelos cuando ande con la ropa que le queda corta.
 - Hacer todas las tareas, o se echarán el ramo.
 - Semestre 2019-1: Ric no aparece como profe del ramo. Nuevo profe. ~~Junten miedo~~. Se llama Francklin Rivas y en una clase enseñó más de lo que Ric enseñó en todo el semestre.

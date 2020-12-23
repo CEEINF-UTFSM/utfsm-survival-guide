@@ -10,7 +10,7 @@ entries:
     output: web, pdf
     folderitems:
 
-    - title: Introduction
+    - title: Introducción
       url: /index.html
       output: web, pdf
       type: homepage
@@ -83,7 +83,7 @@ entries:
           url: /semestre2_FIS110.html
           output: web
 
-        - title: Introducción A La Ingeniería
+        - title: Introducción a La Ingeniería
           url: /semestre2_IWG101.html
           output: web
 
@@ -135,7 +135,7 @@ entries:
           url: /semestre4_INF253.html
           output: web
 
-        - title: ECONOMIA I-A
+        - title: Economía I-A
           url: /semestre4_IWN170.html
           output: web
 
@@ -151,19 +151,19 @@ entries:
           url: /semestre5_INF239.html
           output: web
 
-        - title: Arquitectura y Organizacion de Computadores
+        - title: Arquitectura y Organización de Computadores
           url: /semestre5_INF245.html
           output: web
 
-        - title: Fisica 140
+        - title: Física 140
           url: /semestre5_FIS140.html
           output: web
 
-        - title: Estadistica Computacional
+        - title: Estadística Computacional
           url: /semestre5_INF280.html
           output: web
         
-        - title: Organizaciones y Sistemas de Informacion
+        - title: Organizaciones y Sistemas de Información
           url: /semestre5_INF270.html
           output: web
 
@@ -171,7 +171,7 @@ entries:
         output: web
         subfolderitems:
 
-        - title: Analisis y Diseño de Software
+        - title: Análisis y Diseño de Software
           url: /semestre6_INF236.html
           output: web
 
@@ -238,7 +238,7 @@ entries:
       - title: Semestre 9
         output: web
         subfolderitems:
-        - title: Gestion de Proyectos de Informatica
+        - title: Gestión de Proyectos de Informatica
           url: /semestre9_GESTIP.html
           output: web
             

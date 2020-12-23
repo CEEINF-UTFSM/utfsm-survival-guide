@@ -1,9 +1,6 @@
 ---
 title: Diseño de Interfaces Usuarias
-keywords: documentation theme, jekyll, technical writers, help authoring tools, hat replacements
-last_updated: July 3, 2016
-tags: [getting_started]
-summary: "I have used this theme for projects that I've worked on as a professional technical writer."
+last_updated: December 22, 2020
 sidebar: main_sidebar
 permalink: semestre8_INF322.html
 folder: semestre-8
@@ -21,15 +18,15 @@ folder: semestre-8
 <img id="right-img" src="{{ site.baseurl }}/images/semestre-8/diu1.jpg">
 # Contenido
 <img id="right-img" src="{{ site.baseurl }}/images/semestre-8/diu2.png">
-- Factores humanos del software interactivo.
-- Teorías, principios y pautas.
-- Procesos de diseño.
-- Test y estudio de facilidad de uso.
-- Manipulación directa y tacto.
-- Menú y formularios.
-- Presentación: función y estilo.
-- Web, web 2.0.
-- Aplicaciones móviles.
+* Factores humanos del software interactivo.
+* Teorías, principios y pautas.
+* Procesos de diseño.
+* Test y estudio de facilidad de uso.
+* Manipulación directa y tacto.
+* Menú y formularios.
+* Presentación: función y estilo.
+* Web, web 2.0.
+* Aplicaciones móviles.
 
 
 # Comentarios

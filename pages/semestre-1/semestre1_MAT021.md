@@ -1,7 +1,7 @@
 ---
 title: Matemática I [Mate I]
 keywords: mate1, mat021
-last_updated: August 15, 2020
+last_updated: Dec 22, 2020
 summary: "Asignatura teórico-práctica de carácter básico, que mediante la integración de conceptos del álgebra, la trigonometría y la geometría analítica, provee los fundamentos del lenguaje matemático; como los conceptos básicos y técnicas propias del cálculo diferencial para funciones reales de variable real."
 sidebar: main_sidebar
 permalink: semestre1_MAT021.html
@@ -17,7 +17,7 @@ Como referencia, te sentirás [así][1].
 * Créditos USM: 5.
 * Créditos SCT: 8.
 * Prerrequisitos: Ingreso a Primer año (duh).
-* Eje formativo:  Ciencias Básicas de la Ingeniería.
+* Eje formativo: Ciencias Básicas de la Ingeniería.
 * Semestre en que se dicta: Par e Impar.
 
 ## Contenidos
@@ -25,7 +25,7 @@ Como referencia, te sentirás [así][1].
 ### Cálculo
 1. **Números reales**: Estructura de cuerpo, Axiomas de orden, Valor absoluto, Ecuación cuadrática, Inecuaciones de primer y segundo grado, Axioma del supremo.
 2. **Funciones**: Gráfica de funciones, Álgebra de funciones, Funciones pares e impares, Funciones crecientes y decrecientes, Composición de funciones, Inyectividad, Sobreyectividad y Biyectividad, Función inversa, Funciones trigonométricas, Funciones sinusoidales.
-3. **Límites**: Álgebra de límites, Teorema del sándwich, El numero 'e' como límite.
+3. **Límites**: Álgebra de límites, Teorema del sándwich, El número 'e' como límite.
 4. **Continuidad**: Álgebra de funciones continuas, Composición de funciones continuas, Discontinuidades, Teorema del valor intermedio.
 5. **Cálculo diferencial**: Interpretación geométrica, Recta tangente y normal, Interpretación física, Teorema del valor medio, Álgebra de derivadas, Regla de la cadena, Derivadas de orden superior, Teorema de la función implícita, Teorema de la función inversa, Optimización, Gráfica de funciones, Teorema de L'Hôpital.
 
@@ -42,7 +42,7 @@ Como referencia, te sentirás [así][1].
 10. **Polinomios**: Álgebra de polinomios, Raíces, Teorema fundamental del Álgebra, Funciones polinomiales y racionales, Algoritmo de división, Teoremas para la obtención de raíces, Descomposición en fracciones parciales.
 
 ## Consejos
-* Ante cualquier duda usa [Wolfram][2]. El sitio ya no te ayuda a realizar el ejercicio paso a paso **PERO** la app  móvil de wolfram está crackeada en internet y si lo hace. Saca tu hackerman interior y bajala 100% rial true 1 link full HD con marcianito a 60fps.
+* Ante cualquier duda usa [Wolfram][2]. El sitio ya no te ayuda a realizar el ejercicio paso a paso **PERO** la app  móvil de wolfram está crackeada en internet y si lo hace. Saca tu hackerman interior y bájala 100% rial true 1 link full HD con marcianito a 60fps.
 * [Aquí][3] hay apuntes y controles.
 * **Cada 2 o 3 años preguntan límites por definición. Tratar de entender como funcionan ya que si aprenden son puntos regalados que nadie nunca saca.**
 * Aprender l'hopital antes de tiempo es bueno para ejercicios de límites, aunque no lo puedan usar en la prueba les sirve para saber a qué resultado llegar.

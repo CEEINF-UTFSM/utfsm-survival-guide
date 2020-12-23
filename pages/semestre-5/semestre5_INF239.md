@@ -1,15 +1,14 @@
 ---
 title: Bases de Datos [BD]
 keywords: Bases de datos, php, oracle, bd, datos
-last_updated: July 3, 2016
-tags: [getting_started]
+last_updated: Dec 22, 2020
 summary: El estudiante diseña y construye bases de datos, utilizando software especializado existente en la industria y desarrolla aplicaciones pertinentes para solucionar problemas reales de manejo de información. La asignatura incluye conceptos y propiedades de las bases de datos y su modelamiento, como así también metodologías para diseñar y construir bases de datos relacionales en distintas organizaciones. Los conocimientos adquiridos y las habilidades desarrolladas permitirán al estudiante desempeñarse en su futuro profesional como arquitecto y administrador de datos.
 sidebar: main_sidebar
 permalink: semestre5_INF239.html
 folder: semestre-5
 ---
 
-## Informacion General
+## Información General
 * Sigla: INF-239
 * Nivel de dificultad según estudiantes: (5+k)/10
 * Créditos USM: 3
@@ -32,7 +31,7 @@ folder: semestre-5
 
 
 ## Comentarios
-* "a mi me rajó, pero justamente xd"
+* "a mí me rajó, pero justamente xd"
     * _Cualquier alumno, hablando de cómo le fue en cualquier prueba del ramo_
 * TODO DEPENDE DE LAS REGLAS DEL NEGOCIO
 * Como tus notas de mate pero multiplícalas por -1

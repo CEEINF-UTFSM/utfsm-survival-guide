@@ -1,11 +1,10 @@
 ---
 title: Estructuras Discretas [ED/Discretas]
 keywords: ed, discretas
-last_updated: August 30, 2020
-tags: [getting_started]
+last_updated: Dec 22, 2020
 summary: "Esta asignatura forma parte del plan de estudios de la carrera Ingeniería Civil Informática en la
 línea de fundamentos de la informática, conducente a la licenciatura en Ciencias de la Ingeniería.
-El propósito de ésta es introducir los fundamentos de estructuras discretas en su aplicación a las
+El propósito de esta es introducir los fundamentos de estructuras discretas en su aplicación a las
 ciencias de la computación y proveer los fundamentos teóricos para las asignaturas posteriores."
 sidebar: main_sidebar
 permalink: semestre3_EDIS.html
@@ -18,7 +17,7 @@ folder: semestre-3
 - Nivel de dificultad: antes 6/10 ... 4/10 posible - 7/10 a futuro - 8/10 actualmente.
 - Créditos USM: 3.
 - Créditos SCT: 5.
-- Eje formativo:  Ciencias de la Ingeniería - Fundamentos de la Informática.
+- Eje formativo: Ciencias de la Ingeniería - Fundamentos de la Informática.
 - Semestre en que se dicta: Impar.
 - Prerrequisitos: MAT-021 y IWI-131.
 
@@ -87,7 +86,7 @@ folder: semestre-3
 
   - Si no te quedaste dormido en la clase de Lobos, nunca has tenido clases con él.
 
-  - Todos saben que el 3er certámen es el más fácil, a menos que el profe desee lo contrario (ver 2016-1).
+  - Todos saben que el 3er certamen es el más fácil, a menos que el profe desee lo contrario (ver 2016-1).
 
 
 ~~~
@@ -150,9 +149,9 @@ Procedure ed (alumno):
 >
 > *Por medio del presente les comunico a todos aquellos que incurrieron en la falta de copia, por WhatsApp u otros medios, que deberán pasar a Fase 2 anulando los certámenes de Fase 1*.
 >
-> *Como sabrán, nuestra universidad tiene mano dura frente a estos casos y presentarlos a las autoridades sería caer en un proceso bastante engorroso además de vergonzoso. Decidí anular sus certámenes y tomarles una evaluación presencial en marzo en conjutno con los estudiantes que no participaron de la actual fase*.
+> *Como sabrán, nuestra universidad tiene mano dura frente a estos casos y presentarlos a las autoridades sería caer en un proceso bastante engorroso además de vergonzoso. Decidí anular sus certámenes y tomarles una evaluación presencial en marzo en conjunto con los estudiantes que no participaron de la actual fase*.
 >
-> *Espero que en dicha instancia puedan demostar que efectivamente aprendieron los contenidos.*
+> *Espero que en dicha instancia puedan demostrar que efectivamente aprendieron los contenidos.*
 > 
 > -> Anónimo, post cierre semestre online 2019 (no se conecten a la misma red WIFI, RIP)
 

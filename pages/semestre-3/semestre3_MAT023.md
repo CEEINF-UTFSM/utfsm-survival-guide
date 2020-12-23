@@ -1,8 +1,7 @@
 ---
 title: Matemática III [MAT-023]
 keywords: mate3, mate023, mat023
-last_updated: August 30, 2020
-tags: [getting_started]
+last_updated: Dec 22, 2020
 summary: "Asignatura teórica práctica de carácter intermedio que a partir de una introducción a las transformaciones
 lineales, entrega los conceptos fundamentales del cálculo diferencial en varias variables, ecuaciones
 diferenciales ordinarias, series y transformadas de Fourier."
@@ -40,7 +39,7 @@ La tercera es la vencida ahahahaha aaah aha AAAAAAAAAAAAAAAAAA :'D
 
 - 3rd time's the charm...
 
-- Regla de la cadena  Regla de la cadena Regla de la cadena Regla de la cadena Regla de la cadena Regla de la cadena Regla de la cadena Regla de la cadena Regla de la cadena Regla de la cadena Regla de la cadena Regla de la cadena.
+- Regla de la cadena Regla de la cadena Regla de la cadena Regla de la cadena Regla de la cadena Regla de la cadena Regla de la cadena Regla de la cadena Regla de la cadena Regla de la cadena Regla de la cadena Regla de la cadena.
 
 - Teorema de Rolle GG.
 
@@ -68,7 +67,7 @@ La tercera es la vencida ahahahaha aaah aha AAAAAAAAAAAAAAAAAA :'D
 
   - Y le metemos la bolita.
 
-  - Ver a cifu enojado = casi imposible (un informático tiene este record xD) (después de ese semestre se fue de la U).
+  - Ver a cifu enojado = casi imposible (un informático tiene este récord xD) (después de ese semestre se fue de la U).
 
   - **La Gran Cifuentes: Faltar a clases y avisar con -5 minutos de anticipación.**
 
@@ -95,7 +94,7 @@ La tercera es la vencida ahahahaha aaah aha AAAAAAAAAAAAAAAAAA :'D
     *Espero que se preparen bien. **No como para el último certamen***.
   - Texto guía.
 - Prostaféresis.
-- Si, es posible dar 6 veces el ramo, usando todos los vtr + paros + semestres donde no cuenta el vtr.
+- Sí, es posible dar 6 veces el ramo, usando todos los vtr + paros + semestres donde no cuenta el vtr.
 - Tontorres.
 
 {% include links.html %}
