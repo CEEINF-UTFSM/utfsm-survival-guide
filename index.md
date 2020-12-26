@@ -26,4 +26,9 @@ Esperamos hayan tenido unas buenas vacaciones porque esto está recién comenzan
 	Bienvenidos sansanos y prepare your anus
 </div>
 
-{% include note.html content="Este documento se originó cuando aún había malla vieja (generación 2012), por lo que hay ramos que ya no tienen el mismo profe, o comentarios que ya no aplican." %}
+{% include note.html content="Este documento se originó cuando aún había malla vieja (generación 2012), por lo que hay ramos que ya no tienen el mismo profe, o comentarios que ya no aplican.<br/><br/>
+Link al [manual original][1]" %}
+
+[1]: https://docs.google.com/document/d/1ZORkRBDfVD3lYEzETasc74sJj7cdgy6oqHFKpqUJSgc/edit
+
+{% include links.html %}
