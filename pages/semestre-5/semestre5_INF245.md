@@ -45,7 +45,7 @@ folder: semestre-5
 * En caso de no entender nada en las ayudantías, coloque la cabeza entre las piernas y despídase.
 * En cualquier momento se *muere.
 * Nunca olvides que es una ALU.
-* Si les dice que entra el Capítulo 3, en el certamen estudia el 5 porque preg333333333333333333333333333333333untará el 7.
+* Si les dice que entra el Capítulo 3, en el certamen estudia el 5 porque preguntará el 7.
 * El profe se pone rencoroso porque va el 10% a clases.
 * "A la pizarra" -  El profe cada vez que alguien pregunta algo.
 * Preguntar algo, te deja 50 min parado frente a la pizarra.
