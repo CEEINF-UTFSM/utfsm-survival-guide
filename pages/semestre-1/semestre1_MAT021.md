@@ -48,6 +48,7 @@ Como referencia, te sentirás [así][1].
 * Aprender l'hopital antes de tiempo es bueno para ejercicios de límites, aunque no lo puedan usar en la prueba les sirve para saber a qué resultado llegar.
 * Si wolfram no te ayuda, [Symbolab][4] te enseña el paso a paso ideal para aprender a derivar.
 * Hay una [calculadora de derivadas][5] que sirve bastante.
+* Siempre estudiar Ayudantías y talleres para los certámenes, mayoría de veces entran los mismos ejercicios o muy similares.
 
 ## Comentarios de alumnos
 
@@ -63,6 +64,11 @@ Como referencia, te sentirás [así][1].
     * Lleva cojín para dormir.
     * Siéntate adelante si quieres escuchar.
 
+* Nicolé
+    * Si eres de ejercitar más que leer, Nicolé Geyssel es la luz
+    * Tiene videos en YouTube de complemento y cálculo que pueden carrearte el ramo
+
+* Tomar taller con Victor Valdebenito es buena idea, explica bien los ejercicios
 
 
 **Texto guía**:  
