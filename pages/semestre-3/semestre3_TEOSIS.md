@@ -78,5 +78,6 @@ Humanista disfrazado de ramo informático.
 - Hacer todas las tareas, o se echarán el ramo.
 - Semestre 2019-1: Ric no aparece como profe del ramo. Nuevo profe. ~~Junten miedo~~. Se llama Francklin Rivas y en una clase enseñó más de lo que Ric enseñó en todo el semestre.
 - 2020-1 Se pasa con un 100 sin ir a ninguna clase.
+- 2023-1 Procede a presentar sobre ChatGPT y le pide dibujar la bandera de la federico en ASCII. ChatGpt: :====D. Yo: Tenias solamente un trabajo!!
 
 {% include links.html %}
